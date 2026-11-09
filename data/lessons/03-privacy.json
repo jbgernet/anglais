@@ -1,0 +1,450 @@
+{
+ "num": 3,
+ "label": "3",
+ "title": "Privacy",
+ "subtitle": "When harmless data reveals too much",
+ "entries": [
+  {
+   "id": "err-on-the-side-of-caution",
+   "t": "err on the side of caution",
+   "d": "to choose the safer option when you are uncertain about the risks",
+   "x": [
+    "When we are uncertain, it may be sensible to [[err on the side of caution]]."
+   ],
+   "s": "Safeguards"
+  },
+  {
+   "id": "leave-a-digital-trail",
+   "t": "leave a digital trail",
+   "d": "to create a record of your activities through your use of technology",
+   "x": [
+    "Soldiers using fitness trackers had [[left a digital trail]] around military facilities."
+   ],
+   "s": "When harmless data reveals too much"
+  },
+  {
+   "id": "piece-something-together",
+   "t": "piece something together",
+   "d": "to combine separate pieces of information in order to understand the whole situation",
+   "x": [
+    "By [[piecing these movements together]], observers could identify activity around sensitive locations."
+   ],
+   "s": "When harmless data reveals too much"
+  },
+  {
+   "id": "give-something-away",
+   "t": "give something away",
+   "d": "to accidentally reveal information that was meant to remain hidden",
+   "x": [
+    "Data that seemed insignificant on its own could [[give away]] valuable information."
+   ],
+   "s": "When harmless data reveals too much"
+  },
+  {
+   "id": "stay-under-the-radar",
+   "t": "stay under the radar",
+   "d": "to avoid attracting attention or being noticed",
+   "x": [
+    "It is difficult to [[stay under the radar]] once large amounts of personal data are collected."
+   ],
+   "s": "When harmless data reveals too much"
+  },
+  {
+   "id": "fall-into-the-wrong-hands",
+   "t": "fall into the wrong hands",
+   "d": "to be obtained by someone who may misuse it",
+   "x": [
+    "The risk is greater if that information [[falls into the wrong hands]]."
+   ],
+   "s": "When harmless data reveals too much"
+  },
+  {
+   "id": "paint-a-detailed-picture-of",
+   "t": "paint a detailed picture of",
+   "d": "to provide enough information to give a clear understanding of someone's life or situation",
+   "x": [
+    "Location data can [[paint a detailed picture of]] a person's private life."
+   ],
+   "s": "What can your location say about you?"
+  },
+  {
+   "id": "keep-tabs-on-someone",
+   "t": "keep tabs on someone",
+   "d": "to regularly monitor someone's activities or movements",
+   "x": [
+    "The problem is not simply that an app can [[keep tabs on]] us."
+   ],
+   "s": "What can your location say about you?"
+  },
+  {
+   "id": "opt-out-of",
+   "t": "opt out of",
+   "d": "to choose not to participate in a system or activity",
+   "x": [
+    "Many people would like to [[opt out of]] location tracking, but the setting is hard to find."
+   ],
+   "s": "What can your location say about you?"
+  },
+  {
+   "id": "pass-something-on",
+   "t": "pass something on",
+   "d": "to give information to another person or organisation",
+   "x": [
+    "The information may later be [[passed on]] to organisations we have never dealt with directly."
+   ],
+   "s": "What can your location say about you?"
+  },
+  {
+   "id": "cross-the-line",
+   "t": "cross the line",
+   "d": "to go beyond what is considered acceptable or appropriate",
+   "x": [
+    "For many people, this [[crosses the line]] between providing a useful service and interfering with personal privacy."
+   ],
+   "s": "What can your location say about you?"
+  },
+  {
+   "id": "give-informed-consent",
+   "t": "give informed consent",
+   "d": "to agree to something after properly understanding what it involves",
+   "x": [
+    "It becomes questionable whether users are genuinely [[giving informed consent]]."
+   ],
+   "s": "Did you really agree to share your data?"
+  },
+  {
+   "id": "bury-something-in-the-fine-print",
+   "t": "bury something in the fine print",
+   "d": "to hide important information inside a long or complicated document",
+   "x": [
+    "Important information may be [[buried in the fine print]] of a privacy policy."
+   ],
+   "s": "Did you really agree to share your data?"
+  },
+  {
+   "id": "steer-someone-towards",
+   "t": "steer someone towards",
+   "d": "to subtly encourage someone to make a particular choice",
+   "x": [
+    "Some websites use design techniques that [[steer users towards]] accepting tracking."
+   ],
+   "s": "Did you really agree to share your data?"
+  },
+  {
+   "id": "be-none-the-wiser",
+   "t": "be none the wiser",
+   "d": "to remain unaware of something that has happened",
+   "x": [
+    "A person may click “accept all” and be [[none the wiser]] about how widely their information will be shared."
+   ],
+   "s": "Did you really agree to share your data?"
+  },
+  {
+   "id": "make-something-a-hassle",
+   "t": "make something a hassle",
+   "d": "to make something unnecessarily difficult or inconvenient",
+   "x": [
+    "If rejecting tracking is deliberately [[made a hassle]], users may simply choose the easiest option."
+   ],
+   "s": "Did you really agree to share your data?"
+  },
+  {
+   "id": "come-back-to-haunt-someone",
+   "t": "come back to haunt someone",
+   "d": "to cause problems again long after an event appeared to be over",
+   "x": [
+    "An old photograph, article, or comment can [[come back to haunt]] someone many years later."
+   ],
+   "s": "Should the internet be allowed to forget?"
+  },
+  {
+   "id": "live-something-down",
+   "t": "live something down",
+   "d": "to overcome the embarrassment or damage caused by a past event",
+   "x": [
+    "People should be given the opportunity to [[live down]] past mistakes."
+   ],
+   "s": "Should the internet be allowed to forget?"
+  },
+  {
+   "id": "wipe-the-slate-clean",
+   "t": "wipe the slate clean",
+   "d": "to allow someone to start again without being judged by the past",
+   "x": [
+    "In some circumstances, people should be able to [[wipe the slate clean]]."
+   ],
+   "s": "Should the internet be allowed to forget?"
+  },
+  {
+   "id": "drag-something-up",
+   "t": "drag something up",
+   "d": "to mention or reveal an unpleasant event from the past again",
+   "x": [
+    "Removing information may prevent society from legitimately [[dragging up]] an important part of someone's history."
+   ],
+   "s": "Should the internet be allowed to forget?"
+  },
+  {
+   "id": "outweigh",
+   "t": "outweigh",
+   "d": "to be more important or significant than something else",
+   "x": [
+    "The difficulty is deciding when personal privacy [[outweighs]] the public interest."
+   ],
+   "s": "Should the internet be allowed to forget?"
+  },
+  {
+   "id": "be-out-of-reach",
+   "t": "be out of reach",
+   "d": "to be unavailable because something is too difficult or expensive to obtain",
+   "x": [
+    "Privacy tools may be confusing, expensive, or simply [[out of reach]]."
+   ],
+   "s": "Is privacy becoming a luxury?"
+  },
+  {
+   "id": "bear-the-brunt-of",
+   "t": "bear the brunt of",
+   "d": "to suffer the worst effects of a difficult situation",
+   "x": [
+    "Vulnerable individuals may [[bear the brunt of]] privacy failures."
+   ],
+   "s": "Is privacy becoming a luxury?"
+  },
+  {
+   "id": "have-the-know-how",
+   "t": "have the know-how",
+   "d": "to possess the practical knowledge necessary to do something",
+   "x": [
+    "Some people [[have the know-how]] to adjust complicated privacy settings."
+   ],
+   "s": "Is privacy becoming a luxury?"
+  },
+  {
+   "id": "be-vulnerable-to",
+   "t": "be vulnerable to",
+   "d": "to be particularly likely to experience harm",
+   "x": [
+    "Older users can be [[vulnerable to]] online scams."
+   ],
+   "s": "Is privacy becoming a luxury?"
+  },
+  {
+   "id": "widen-the-gap",
+   "t": "widen the gap",
+   "d": "to increase the difference between two groups",
+   "x": [
+    "Technology may [[widen the gap]] between those who can protect themselves and those who cannot."
+   ],
+   "s": "Is privacy becoming a luxury?"
+  },
+  {
+   "id": "come-at-a-cost",
+   "t": "come at a cost",
+   "d": "to involve a negative consequence or sacrifice",
+   "x": [
+    "Modern convenience often [[comes at a cost]]."
+   ],
+   "s": "How much privacy for convenience?"
+  },
+  {
+   "id": "trade-one-thing-for-another",
+   "t": "trade one thing for another",
+   "d": "to give up one benefit in order to receive another",
+   "x": [
+    "Most people are willing to [[trade some privacy for]] these benefits."
+   ],
+   "s": "How much privacy for convenience?"
+  },
+  {
+   "id": "give-something-up-in-return-for",
+   "t": "give something up in return for",
+   "d": "to sacrifice something in exchange for a benefit",
+   "x": [
+    "A person might willingly [[give up their location in return for]] directions."
+   ],
+   "s": "How much privacy for convenience?"
+  },
+  {
+   "id": "function-creep",
+   "t": "function creep",
+   "d": "the gradual use of information or technology for purposes beyond those originally intended",
+   "x": [
+    "Using data for a new purpose is sometimes described as [[function creep]]."
+   ],
+   "s": "How much privacy for convenience?"
+  },
+  {
+   "id": "draw-the-line-at",
+   "t": "draw the line at",
+   "d": "to decide that you will accept something up to a certain point but no further",
+   "x": [
+    "Each person may [[draw the line at]] a different point."
+   ],
+   "s": "How much privacy for convenience?"
+  },
+  {
+   "id": "hold-someone-to-account",
+   "t": "hold someone to account",
+   "d": "to make someone explain or take responsibility for their actions",
+   "x": [
+    "Journalists may need private information to [[hold powerful people to account]]."
+   ],
+   "s": "When does the public's right to know come first?"
+  },
+  {
+   "id": "shed-light-on",
+   "t": "shed light on",
+   "d": "to reveal information that makes a situation easier to understand",
+   "x": [
+    "Investigative journalists may use private information to [[shed light on]] corruption."
+   ],
+   "s": "When does the public's right to know come first?"
+  },
+  {
+   "id": "serve-the-public-interest",
+   "t": "serve the public interest",
+   "d": "to benefit society rather than merely satisfy curiosity",
+   "x": [
+    "Revealing information may genuinely [[serve the public interest]]."
+   ],
+   "s": "When does the public's right to know come first?"
+  },
+  {
+   "id": "intrude-on-someones-privacy",
+   "t": "intrude on someone's privacy",
+   "d": "to become involved in someone's private life without sufficient justification",
+   "x": [
+    "Revealing unrelated family details could unnecessarily [[intrude on their privacy]]."
+   ],
+   "s": "When does the public's right to know come first?"
+  },
+  {
+   "id": "strike-a-balance",
+   "t": "strike a balance",
+   "d": "to find an acceptable position between two competing interests",
+   "x": [
+    "A free society has to [[strike a balance]] between protecting individuals and allowing legitimate scrutiny."
+   ],
+   "s": "When does the public's right to know come first?"
+  },
+  {
+   "id": "tighten-up",
+   "t": "tighten up",
+   "d": "to make rules, security, or controls stricter and more effective",
+   "x": [
+    "People can [[tighten up]] their privacy settings."
+   ],
+   "s": "What does healthy digital privacy look like?"
+  },
+  {
+   "id": "cut-down-on",
+   "t": "cut down on",
+   "d": "to reduce the amount of something",
+   "x": [
+    "People can [[cut down on]] unnecessary permissions."
+   ],
+   "s": "What does healthy digital privacy look like?"
+  },
+  {
+   "id": "think-twice-before",
+   "t": "think twice before",
+   "d": "to consider the possible consequences carefully before acting",
+   "x": [
+    "People can [[think twice before]] posting information that may remain accessible for years."
+   ],
+   "s": "What does healthy digital privacy look like?"
+  },
+  {
+   "id": "take-ownership-of",
+   "t": "take ownership of",
+   "d": "to accept responsibility and take active control of something",
+   "x": [
+    "Healthy privacy means [[taking ownership of]] what we share."
+   ],
+   "s": "What does healthy digital privacy look like?"
+  }
+ ],
+ "speaking": [
+  {
+   "q": "Can information that seems harmless on its own become dangerous when it is combined with other pieces of information?",
+   "uses": [
+    "leave-a-digital-trail",
+    "piece-something-together",
+    "give-something-away",
+    "stay-under-the-radar",
+    "fall-into-the-wrong-hands"
+   ]
+  },
+  {
+   "q": "If someone had access to several months of your location history, how much could they learn about your private life?",
+   "uses": [
+    "paint-a-detailed-picture-of",
+    "keep-tabs-on-someone",
+    "opt-out-of",
+    "pass-something-on",
+    "cross-the-line"
+   ]
+  },
+  {
+   "q": "When we click “accept” on a website or app, can we really say that we have freely agreed to what will happen to our personal information?",
+   "uses": [
+    "give-informed-consent",
+    "bury-something-in-the-fine-print",
+    "steer-someone-towards",
+    "be-none-the-wiser",
+    "make-something-a-hassle"
+   ]
+  },
+  {
+   "q": "Should people be able to prevent old information from appearing in search results, or does the public have a right to access the past?",
+   "uses": [
+    "come-back-to-haunt-someone",
+    "live-something-down",
+    "wipe-the-slate-clean",
+    "drag-something-up",
+    "outweigh"
+   ]
+  },
+  {
+   "q": "Do all people have the same ability to protect their privacy, or are some groups much more vulnerable than others?",
+   "uses": [
+    "be-out-of-reach",
+    "bear-the-brunt-of",
+    "have-the-know-how",
+    "be-vulnerable-to",
+    "widen-the-gap"
+   ]
+  },
+  {
+   "q": "Many technologies make our lives easier by collecting personal information. At what point does convenience stop being worth the loss of privacy?",
+   "uses": [
+    "come-at-a-cost",
+    "trade-one-thing-for-another",
+    "give-something-up-in-return-for",
+    "function-creep",
+    "draw-the-line-at"
+   ]
+  },
+  {
+   "q": "Are there situations in which the public's right to information should be more important than an individual's right to privacy?",
+   "uses": [
+    "hold-someone-to-account",
+    "shed-light-on",
+    "serve-the-public-interest",
+    "intrude-on-someones-privacy",
+    "strike-a-balance"
+   ]
+  },
+  {
+   "q": "If complete privacy is impossible in modern life, what would a realistic and responsible approach to digital privacy look like?",
+   "uses": [
+    "tighten-up",
+    "cut-down-on",
+    "think-twice-before",
+    "take-ownership-of",
+    "err-on-the-side-of-caution"
+   ]
+  }
+ ]
+}

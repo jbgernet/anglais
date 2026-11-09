@@ -1,0 +1,220 @@
+{
+  "groups": [
+    {
+      "id": "opinion",
+      "title": "Donner son avis",
+      "why": "Annoncez que c'est votre point de vue avant de le donner : la phrase démarre plus facilement et sonne plus naturelle qu'un « I think » répété.",
+      "items": [
+        {"id": "in-my-view", "t": "In my view,", "d": "à mon avis (neutre, posé)", "x": ["[[In my view]], cycling should be taught at school."]},
+        {"id": "as-far-as-im-concerned", "t": "As far as I'm concerned,", "d": "en ce qui me concerne", "x": ["[[As far as I'm concerned]], the decision should stay with the patient."]},
+        {"id": "if-you-ask-me", "t": "If you ask me,", "d": "si vous voulez mon avis (familier)", "x": ["[[If you ask me]], the meeting was a waste of time."]},
+        {"id": "id-say", "t": "I'd say (that)", "d": "je dirais que (avis prudent)", "x": ["[[I'd say]] it's a step in the right direction."]},
+        {"id": "the-way-i-see-it", "t": "The way I see it,", "d": "de mon point de vue, tel que je vois les choses", "x": ["[[The way I see it]], hope is more of a habit than a feeling."]},
+        {"id": "i-tend-to-think", "t": "I tend to think (that)", "d": "j'ai tendance à penser que", "x": ["[[I tend to think]] people underestimate the risks."]}
+      ]
+    },
+    {
+      "id": "add",
+      "title": "Ajouter une idée",
+      "why": "Pour enchaîner les arguments sans répéter « and » : chaque mot de liaison annonce qu'une idée de plus arrive.",
+      "items": [
+        {"id": "whats-more", "t": "What's more,", "d": "de plus, qui plus est (argument plus fort)", "x": ["The flat is cheap. [[What's more]], it's close to the station."]},
+        {"id": "on-top-of-that", "t": "On top of that,", "d": "en plus de ça, par-dessus le marché", "x": ["The train was late. [[On top of that]], it was packed."]},
+        {"id": "not-only-that", "t": "Not only that,", "d": "et ce n'est pas tout", "x": ["It's faster. [[Not only that]], it's cheaper too."]},
+        {"id": "besides", "t": "Besides,", "d": "d'ailleurs, et puis (argument supplémentaire)", "x": ["I don't want to go out. [[Besides]], it's raining."]},
+        {"id": "another-thing-is", "t": "Another thing is (that)", "d": "autre chose : … (on ajoute un point)", "x": ["[[Another thing is]] that the app tracks your location."]},
+        {"id": "as-well-as-that", "t": "As well as that,", "d": "en outre, en plus de cela", "x": ["You need to eat well. [[As well as that]], you need a good night's sleep."]}
+      ]
+    },
+    {
+      "id": "contrast",
+      "title": "Nuancer ou opposer",
+      "why": "Montrer qu'on voit les deux côtés rend un avis plus convaincant. Ces mots préparent l'auditeur à un « mais ».",
+      "items": [
+        {"id": "having-said-that", "t": "Having said that,", "d": "cela dit", "x": ["I love my job. [[Having said that]], I'd like more free time."]},
+        {"id": "on-the-other-hand", "t": "On the other hand,", "d": "d'un autre côté, en revanche", "x": ["The city is expensive. [[On the other hand]], salaries are higher."]},
+        {"id": "even-so", "t": "Even so,", "d": "malgré tout, quand même", "x": ["The plan is risky. [[Even so]], I think it's worth trying."]},
+        {"id": "mind-you", "t": "Mind you,", "d": "remarquez, notez bien (oral, britannique)", "x": ["The hotel was tiny. [[Mind you]], it was very cheap."]},
+        {"id": "whereas", "t": "whereas", "d": "alors que (comparaison dans la même phrase)", "x": ["I prefer trains, [[whereas]] my brother prefers driving."]},
+        {"id": "although", "t": "Although", "d": "bien que, même si", "x": ["[[Although]] it was raining, we cycled to work."]}
+      ]
+    },
+    {
+      "id": "cause",
+      "title": "Cause et conséquence",
+      "why": "Expliquer pourquoi, puis ce qui en découle : c'est ce qui transforme une liste d'idées en raisonnement.",
+      "items": [
+        {"id": "thats-why", "t": "That's why", "d": "c'est pour ça que", "x": ["I missed the bus. [[That's why]] I'm late."]},
+        {"id": "as-a-result", "t": "As a result,", "d": "par conséquent, du coup", "x": ["The road was closed. [[As a result]], traffic was terrible."]},
+        {"id": "which-means", "t": "which means (that)", "d": "ce qui veut dire que", "x": ["The shops close at six, [[which means]] we need to hurry."]},
+        {"id": "the-reason-is", "t": "The reason is (that)", "d": "la raison, c'est que", "x": ["[[The reason is]] that nobody asked them."]},
+        {"id": "because-of-this", "t": "Because of this,", "d": "à cause de cela, de ce fait", "x": ["Prices went up. [[Because of this]], many people stopped using the service."]},
+        {"id": "since-cause", "t": "Since", "d": "puisque, comme (cause connue)", "x": ["[[Since]] you're here, let's start."]}
+      ]
+    },
+    {
+      "id": "example",
+      "title": "Donner un exemple",
+      "why": "Un exemple concret rend une idée vivante et vous laisse le temps de penser à la suite.",
+      "items": [
+        {"id": "for-instance", "t": "For instance,", "d": "par exemple", "x": ["Some habits really help. [[For instance]], writing down three new words a day."]},
+        {"id": "such-as", "t": "such as", "d": "comme, tel que", "x": ["Big cities [[such as]] Paris or London are investing in bike lanes."]},
+        {"id": "in-particular", "t": "in particular", "d": "en particulier", "x": ["I enjoyed the trip, [[in particular]] the food."]},
+        {"id": "like-when", "t": "like when", "d": "comme quand (oral)", "x": ["It's stressful, [[like when]] you have to speak in public."]},
+        {"id": "to-give-you-an-idea", "t": "To give you an idea,", "d": "pour vous donner une idée", "x": ["[[To give you an idea]], the project cost three million euros."]},
+        {"id": "a-good-example-is", "t": "A good example is", "d": "un bon exemple, c'est", "x": ["[[A good example is]] the way Copenhagen redesigned its streets."]}
+      ]
+    },
+    {
+      "id": "time",
+      "title": "Gagner du temps pour réfléchir",
+      "why": "Au lieu d'un « euh » silencieux, ces formules vous donnent deux ou trois secondes tout en restant dans la conversation.",
+      "items": [
+        {"id": "let-me-think", "t": "Let me think…", "d": "laissez-moi réfléchir", "x": ["[[Let me think]]… I'd probably choose the second option."]},
+        {"id": "thats-a-good-question", "t": "That's a good question.", "d": "bonne question (pour gagner quelques secondes)", "x": ["[[That's a good question]]. I've never really thought about it."]},
+        {"id": "how-can-i-put-it", "t": "How can I put it?", "d": "comment dire ?", "x": ["It was… [[how can I put it]]… a bit awkward."]},
+        {"id": "well", "t": "Well,", "d": "eh bien (remplace « euh » en début de réponse)", "x": ["[[Well]], it depends on the situation."]},
+        {"id": "let-me-see", "t": "Let me see,", "d": "voyons voir", "x": ["[[Let me see]], it was about three years ago."]},
+        {"id": "its-hard-to-say", "t": "It's hard to say, but", "d": "difficile à dire, mais", "x": ["[[It's hard to say, but]] I think things will improve."]}
+      ]
+    },
+    {
+      "id": "rephrase",
+      "title": "Reformuler et clarifier",
+      "why": "Quand une phrase part de travers, on la reprend calmement : c'est ce que font les natifs, et ça s'entend comme de l'aisance.",
+      "items": [
+        {"id": "what-i-mean-is", "t": "What I mean is", "d": "ce que je veux dire, c'est", "x": ["[[What I mean is]] that we need more time."]},
+        {"id": "in-other-words", "t": "In other words,", "d": "autrement dit", "x": ["We ran out of money. [[In other words]], the plan failed."]},
+        {"id": "let-me-rephrase-that", "t": "Let me rephrase that.", "d": "je reformule (après une phrase maladroite)", "x": ["Sorry, [[let me rephrase that]]: I'm not against the idea."]},
+        {"id": "the-point-im-trying-to-make", "t": "The point I'm trying to make is", "d": "là où je veux en venir, c'est", "x": ["[[The point I'm trying to make is]] that privacy matters to everyone."]},
+        {"id": "i-mean", "t": "I mean,", "d": "enfin… (petite correction en passant, très oral)", "x": ["It was great. [[I mean]], not perfect, but great."]},
+        {"id": "basically", "t": "Basically,", "d": "en gros, pour faire simple", "x": ["[[Basically]], we need to start again."]}
+      ]
+    },
+    {
+      "id": "structure",
+      "title": "Structurer une réponse",
+      "why": "Annoncer les étapes aide l'auditeur à vous suivre, et vous aide à ne pas vous perdre.",
+      "items": [
+        {"id": "first-of-all", "t": "First of all,", "d": "tout d'abord", "x": ["[[First of all]], I'd like to thank you for coming."]},
+        {"id": "moving-on-to", "t": "Moving on to", "d": "pour passer à", "x": ["[[Moving on to]] the second question, I think the answer is yes."]},
+        {"id": "last-but-not-least", "t": "Last but not least,", "d": "enfin, et ce n'est pas le moins important", "x": ["[[Last but not least]], be patient with yourself."]},
+        {"id": "all-in-all", "t": "All in all,", "d": "dans l'ensemble, tout compte fait", "x": ["[[All in all]], it was a great experience."]},
+        {"id": "to-sum-up", "t": "To sum up,", "d": "pour résumer", "x": ["[[To sum up]], speak early and practise every day."]},
+        {"id": "at-the-end-of-the-day", "t": "At the end of the day,", "d": "au bout du compte, en fin de compte", "x": ["[[At the end of the day]], it's your decision."]}
+      ]
+    },
+    {
+      "id": "hedge",
+      "title": "Nuancer sans trancher",
+      "why": "L'anglais adore la nuance. Ces formules évitent de paraître trop catégorique, surtout dans un cadre professionnel.",
+      "items": [
+        {"id": "to-some-extent", "t": "to some extent", "d": "dans une certaine mesure", "x": ["I agree [[to some extent]], but not completely."]},
+        {"id": "it-depends-on", "t": "It depends on", "d": "ça dépend de", "x": ["[[It depends on]] the context."]},
+        {"id": "more-or-less", "t": "more or less", "d": "plus ou moins", "x": ["The project is [[more or less]] finished."]},
+        {"id": "im-not-entirely-sure-but", "t": "I'm not entirely sure, but", "d": "je n'en suis pas tout à fait sûr, mais", "x": ["[[I'm not entirely sure, but]] I think it closes at five."]},
+        {"id": "it-seems-to-me", "t": "It seems to me (that)", "d": "il me semble que", "x": ["[[It seems to me]] that people are more careful now."]},
+        {"id": "arguably", "t": "Arguably,", "d": "on peut soutenir que, sans doute", "x": ["[[Arguably]], it's the best film of the year."]}
+      ]
+    },
+    {
+      "id": "react",
+      "title": "Réagir : accord et désaccord",
+      "why": "Réagir à ce que dit l'autre avant de donner son avis rend l'échange fluide et poli, même en désaccord.",
+      "items": [
+        {"id": "i-couldnt-agree-more", "t": "I couldn't agree more.", "d": "je suis entièrement d'accord", "x": ["[[I couldn't agree more]]. It's a brilliant idea."]},
+        {"id": "thats-a-fair-point", "t": "That's a fair point, but", "d": "c'est un argument valable, mais", "x": ["[[That's a fair point, but]] it doesn't solve the problem."]},
+        {"id": "i-see-what-you-mean", "t": "I see what you mean, but", "d": "je vois ce que vous voulez dire, mais", "x": ["[[I see what you mean, but]] I'm still not convinced."]},
+        {"id": "im-not-so-sure-about-that", "t": "I'm not so sure about that.", "d": "je n'en suis pas si sûr", "x": ["[[I'm not so sure about that]]. The figures say otherwise."]},
+        {"id": "fair-enough", "t": "Fair enough.", "d": "d'accord, c'est juste (on concède)", "x": ["[[Fair enough]]. Let's do it your way."]},
+        {"id": "exactly", "t": "Exactly.", "d": "exactement, c'est ça", "x": ["[[Exactly]]. That's what I was trying to say."]}
+      ]
+    },
+    {
+      "id": "story",
+      "title": "Raconter",
+      "why": "Ces repères de temps donnent du rythme à un récit et évitent l'enchaînement « and then… and then… ».",
+      "items": [
+        {"id": "at-first", "t": "At first,", "d": "au début", "x": ["[[At first]], I didn't like the city."]},
+        {"id": "eventually", "t": "Eventually,", "d": "finalement, au bout du compte (≠ éventuellement)", "x": ["We tried for months. [[Eventually]], we found a solution."]},
+        {"id": "in-the-end", "t": "In the end,", "d": "à la fin, en fin de compte", "x": ["[[In the end]], we stayed at home."]},
+        {"id": "all-of-a-sudden", "t": "All of a sudden,", "d": "tout à coup", "x": ["[[All of a sudden]], the lights went out."]},
+        {"id": "meanwhile", "t": "Meanwhile,", "d": "pendant ce temps", "x": ["[[Meanwhile]], the others were waiting outside."]},
+        {"id": "looking-back", "t": "Looking back,", "d": "avec le recul", "x": ["[[Looking back]], it was the right decision."]}
+      ]
+    }
+  ],
+
+  "tips": [
+    {"id": "well-not-euh", "title": "Remplacez « euh » par une vraie formule", "body": "Le « euh » français trahit immédiatement l'hésitation. « Well », « Let me think » ou « That's a good question » vous donnent le même temps de réflexion, en anglais.", "before": "Euh… I think that… euh… it's difficult.", "after": "Well, let me think… I'd say it's quite difficult."},
+    {"id": "contractions", "title": "Contractez", "body": "À l'oral, les anglophones contractent presque toujours. La forme pleine sonne lente et appuyée, comme si vous insistiez.", "before": "I am not sure it is a good idea, but I will try.", "after": "I'm not sure it's a good idea, but I'll try."},
+    {"id": "chunks", "title": "Apprenez des blocs, pas des mots", "body": "On parle avec des morceaux tout faits : « it depends on », « as far as I'm concerned », « to be honest ». Un bloc se ressort d'un coup, sans construire la phrase mot à mot.", "before": "In my opinion personal, it depends of the situation.", "after": "As far as I'm concerned, it depends on the situation."},
+    {"id": "prep", "title": "Répondez en quatre temps", "body": "Pour une question d'opinion : votre avis, une raison, un exemple, puis votre avis reformulé. Quatre étapes suffisent pour parler une minute sans se perdre.", "before": "Yes, I think it's good. Cars are bad. Yes.", "after": "In my view, it's a good idea. The reason is that cars make streets dangerous. For instance, my street is much calmer since it became one-way. So all in all, I'm in favour."},
+    {"id": "circumlocution", "title": "Le mot vous manque ? Décrivez-le", "body": "Ne bloquez pas sur un mot : contournez-le avec « It's a kind of… », « It's what you use to… », « It's like a… but… ». Personne ne s'en rend compte, et la conversation continue.", "before": "I need a… a… how do you say… (silence)", "after": "I need a… it's a kind of tool you use to make holes in a wall."},
+    {"id": "signposting", "title": "Annoncez ce que vous allez dire", "body": "« There are two reasons. The first one is… The second one is… » : l'auditeur sait où vous allez, et vous aussi.", "before": "Because of the price and also the time and the noise.", "after": "There are three reasons: the price, the time and, last but not least, the noise."},
+    {"id": "vary-very", "title": "Variez « very »", "body": "« Very » à chaque phrase appauvrit le discours. Essayez « really », « extremely », « incredibly », ou un adjectif plus fort : « exhausted » plutôt que « very tired ».", "before": "It was very good and very interesting, but very tiring.", "after": "It was really good and incredibly interesting, but exhausting."},
+    {"id": "so-and", "title": "Moins de « and » et de « so »", "body": "Enregistrez-vous : la plupart des francophones enchaînent avec « and » et « so ». Remplacez-en un sur deux par « which means », « what's more » ou « that's why ».", "before": "I was tired so I stayed home and I watched a film and so I went to bed late.", "after": "I was tired, which means I stayed home. I watched a film, and that's why I went to bed late."},
+    {"id": "question-back", "title": "Renvoyez une question pour préciser", "body": "Demander une précision est naturel et vous fait gagner du temps : « Do you mean in general, or in my case? »", "before": "(silence) …I don't know.", "after": "Do you mean in general, or in my own experience?"},
+    {"id": "stress", "title": "Accentuez les mots qui portent le sens", "body": "L'anglais appuie sur les mots importants (noms, verbes, adjectifs) et avale les petits mots. Un débit régulier, mot à mot, sonne français.", "before": "I – think – that – we – need – more – time.", "after": "I THINK we NEED more TIME."},
+    {"id": "present-perfect", "title": "Depuis quand ? Le present perfect", "body": "Pour une situation qui dure encore, l'anglais utilise le present perfect, avec « for » pour une durée et « since » pour un point de départ.", "before": "I live in Brussels since three years.", "after": "I've lived in Brussels for three years."},
+    {"id": "phrasal-verbs", "title": "Préférez les verbes à particule à l'oral", "body": "Les mots d'origine latine (« discover », « continue », « postpone ») sonnent écrits. À l'oral, on dit plutôt « find out », « go on », « put off ».", "before": "We must postpone the meeting and continue tomorrow.", "after": "We'll have to put off the meeting and carry on tomorrow."},
+    {"id": "pauses", "title": "Faites des pauses aux bons endroits", "body": "Une courte pause après un mot de liaison (« What's more, … ») sonne posé, pas hésitant. Parlez par groupes de sens plutôt que d'accélérer.", "before": "Whatsmoreitsclosetothestation.", "after": "What's more… it's close to the station."},
+    {"id": "finish", "title": "Terminez proprement", "body": "Une réponse qui s'arrête net laisse un blanc gênant. Concluez d'une phrase : « So that's my view. », « …and that's basically it. »", "before": "…and the price. (silence)", "after": "…and the price. So, all in all, that's why I'd choose the train."}
+  ],
+
+  "pitfalls": [
+    {"id": "i-am-agree", "wrong": "I am agree with you.", "right": "I agree with you.", "why": "« Agree » est un verbe : pas de « be » devant.", "detect": "\\b(i am|i'm|we are|we're) agree\\b"},
+    {"id": "depend-of", "wrong": "It depends of the weather.", "right": "It depends on the weather.", "why": "On dit « depend on », jamais « depend of ».", "detect": "\\bdepend(s|ed|ing)? of\\b"},
+    {"id": "since-duration", "wrong": "I live here since three years.", "right": "I've lived here for three years.", "why": "Durée qui continue : present perfect + « for » (durée) ou « since » (point de départ).", "detect": "\\bsince (two|three|four|five|six|seven|eight|nine|ten|\\d+|many|several|a few) (years|months|weeks|days)\\b"},
+    {"id": "explain-me", "wrong": "Can you explain me the rules?", "right": "Can you explain the rules to me?", "why": "« Explain something to someone » : la personne vient après « to ».", "detect": "\\bexplain(ed|s)? (me|us|him|her|them)\\b"},
+    {"id": "informations", "wrong": "I have many informations.", "right": "I have a lot of information.", "why": "« Information » est indénombrable : pas de pluriel, pas de « an ».", "detect": "\\binformations\\b"},
+    {"id": "an-advice", "wrong": "Can you give me an advice?", "right": "Can you give me some advice? / a piece of advice?", "why": "« Advice » est indénombrable.", "detect": "\\b(an advice|advices)\\b"},
+    {"id": "actually", "wrong": "Actually, the minister is a woman. (= actuellement)", "right": "Currently, the minister is a woman.", "why": "« Actually » veut dire « en fait ». « Actuellement » se dit « currently », « at the moment »."},
+    {"id": "eventually", "wrong": "I will eventually come if I have time. (= éventuellement)", "right": "I might come if I have time.", "why": "« Eventually » veut dire « finalement ». « Éventuellement » se dit « possibly », « maybe », « might »."},
+    {"id": "sympathetic", "wrong": "My colleague is very sympathetic. (= sympa)", "right": "My colleague is very nice.", "why": "« Sympathetic » veut dire « compatissant ». « Sympa » se dit « nice », « friendly »."},
+    {"id": "assist", "wrong": "I assisted to the meeting.", "right": "I attended the meeting.", "why": "« Assist » veut dire « aider ». « Assister à » se dit « attend ».", "detect": "\\bassist(ed)? (to|at) the\\b"},
+    {"id": "library", "wrong": "I went to the library to buy a book.", "right": "I went to the bookshop to buy a book.", "why": "« Library » = bibliothèque. « Librairie » = « bookshop » (« bookstore » en américain)."},
+    {"id": "the-people-is", "wrong": "The people is very friendly.", "right": "People are very friendly.", "why": "« People » est pluriel. Pour parler des gens en général, pas d'article.", "detect": "\\bpeople is\\b"},
+    {"id": "have-years", "wrong": "I have 40 years.", "right": "I'm 40. / I'm 40 years old.", "why": "L'âge s'exprime avec « be ».", "detect": "\\bi have \\d+ years\\b"},
+    {"id": "used-to-ing", "wrong": "I'm used to cycle to work.", "right": "I'm used to cycling to work.", "why": "« Be used to » (avoir l'habitude de) est suivi de la forme en -ing.", "detect": "\\b(am|'m|are|'re|is|'s) used to (cycle|work|go|do|speak|live|take|get|drive|walk|make)\\b"},
+    {"id": "first-time", "wrong": "It's the first time I come here.", "right": "It's the first time I've been here.", "why": "Après « It's the first time », present perfect.", "detect": "\\bfirst time i (come|do|see|go|eat|try|visit)\\b"},
+    {"id": "do-a-mistake", "wrong": "I did a mistake.", "right": "I made a mistake.", "why": "On « make » une erreur, comme on « make » une décision.", "detect": "\\b(did|do|does|doing) (a|many|some|lots of|a lot of) mistakes?\\b"},
+    {"id": "boring-bored", "wrong": "I'm boring in long meetings.", "right": "I'm bored in long meetings.", "why": "« Bored » = ce que je ressens. « Boring » = ce qui ennuie. « I'm boring » veut dire « je suis ennuyeux » !", "detect": "\\b(i am|i'm) (so |very |really )?boring\\b"},
+    {"id": "discuss-about", "wrong": "We discussed about the project.", "right": "We discussed the project. / We talked about the project.", "why": "« Discuss » se construit sans préposition.", "detect": "\\bdiscuss(ed|es|ing)? about\\b"},
+    {"id": "said-me", "wrong": "He said me that he was tired.", "right": "He told me that he was tired.", "why": "« Say something » mais « tell someone ».", "detect": "\\bsa(y|ys|id) (me|us|him|her|them) that\\b"},
+    {"id": "want-that", "wrong": "I want that you come with me.", "right": "I want you to come with me.", "why": "« Want someone to do something », jamais « want that ».", "detect": "\\bwant(s|ed)? that (you|he|she|they|we)\\b"},
+    {"id": "more-easy", "wrong": "It's more easy by bike.", "right": "It's easier by bike.", "why": "Les adjectifs courts prennent -er : easier, cheaper, faster.", "detect": "\\bmore (easy|cheap|fast|big|small|quick|hard|nice|safe|late|early)\\b"},
+    {"id": "same-time", "wrong": "In the same time, I was working.", "right": "At the same time, I was working.", "why": "« En même temps » se dit « at the same time ».", "detect": "\\bin the same time\\b"},
+    {"id": "sensible", "wrong": "She's very sensible to criticism. (= sensible)", "right": "She's very sensitive to criticism.", "why": "« Sensible » veut dire « raisonnable ». « Sensible » (émotif) se dit « sensitive »."},
+    {"id": "control", "wrong": "The inspector controlled my ticket.", "right": "The inspector checked my ticket.", "why": "« Control » veut dire « maîtriser, diriger ». « Contrôler, vérifier » se dit « check ».", "detect": "\\bcontroll?ed (my|our|the|his|her) (ticket|passport|bag|documents)\\b"},
+    {"id": "formation", "wrong": "I followed a formation in project management.", "right": "I did a training course in project management.", "why": "« Formation » veut dire « mise en forme, constitution ». Pour une formation : « training », « a course ».", "detect": "\\b(a|the|my) formation\\b"},
+    {"id": "people-thinks", "wrong": "A lot of people thinks it's too expensive.", "right": "A lot of people think it's too expensive.", "why": "« People » est pluriel : le verbe ne prend pas de -s.", "detect": "\\bpeople (thinks|says|wants|knows|has|does)\\b"}
+  ],
+
+  "kinds": {
+    "opinion": {"label": "Donner son avis", "structure": "Votre avis → une raison → un exemple → votre avis reformulé", "groups": ["opinion", "add", "contrast", "example", "structure"]},
+    "story": {"label": "Raconter", "structure": "La situation → le début → le rebondissement → la fin → ce que vous en retenez", "groups": ["story", "time", "cause"]},
+    "describe": {"label": "Décrire", "structure": "Vue d'ensemble → deux ou trois détails → un bémol → impression générale", "groups": ["add", "example", "contrast"]},
+    "compare": {"label": "Peser le pour et le contre", "structure": "Les avantages → les inconvénients → votre position", "groups": ["contrast", "add", "structure", "hedge"]},
+    "problem": {"label": "Un problème et sa solution", "structure": "Le problème → ce que vous avez fait → le résultat → la leçon", "groups": ["story", "cause", "structure"]},
+    "explain": {"label": "Expliquer simplement", "structure": "En une phrase → un exemple concret → une comparaison → ce qui vous plaît", "groups": ["rephrase", "example", "time"]},
+    "hypothetical": {"label": "Imaginer", "structure": "Votre choix → deux raisons → une réserve → conclusion", "groups": ["opinion", "contrast", "hedge"]},
+    "advice": {"label": "Conseiller", "structure": "Conseil principal → deuxième conseil → un exemple → le mot de la fin", "groups": ["structure", "add", "example"]},
+    "debate": {"label": "Débattre", "structure": "Réagir → concéder un point → votre argument → reformuler votre position", "groups": ["react", "contrast", "rephrase"]}
+  },
+
+  "prompts": [
+    {"id": "learn-language", "kind": "opinion", "q": "What's the best way to learn a language as an adult?", "model": "Well, that's a good question. In my view, the most important thing is to speak as often as possible, even if you make mistakes. What's more, it helps to learn whole expressions rather than single words, because that's how people actually talk. Having said that, regular practice matters more than long sessions: twenty minutes a day is better than three hours once a week. To sum up, I'd say: speak early, learn in chunks and be consistent."},
+    {"id": "ban-cars", "kind": "opinion", "q": "Should cities ban cars from their centre?", "model": "The way I see it, cities should limit cars in the centre rather than ban them completely. Fewer cars means cleaner air and safer streets for cyclists and pedestrians. On top of that, local shops often do better when people can walk around easily. On the other hand, some people, such as delivery drivers or people with reduced mobility, still need access. That's why I'd favour a gradual approach, with exceptions. All in all, the centre should belong to people first."},
+    {"id": "good-decision", "kind": "story", "q": "Tell me about a decision you're glad you made.", "model": "A few years ago, I decided to change jobs. At first, I wasn't sure it was the right move, because I liked my team and the work was stable. Eventually, though, I realised I needed a new challenge. The first months were hard: all of a sudden, I had to learn a lot of new things at once. Looking back, it was one of the best decisions I've ever made, because it gave me confidence and new skills."},
+    {"id": "work-from-home", "kind": "compare", "q": "What are the pros and cons of working from home?", "model": "First of all, working from home saves a lot of time, since you don't have to commute. What's more, it's often easier to concentrate on complex tasks. Having said that, there are downsides. For instance, you can feel isolated, and the line between work and private life becomes blurred. As far as I'm concerned, the best solution is a mix: two or three days at home and the rest in the office. At the end of the day, it depends on the job and the person."},
+    {"id": "neighbourhood", "kind": "describe", "q": "Describe your neighbourhood to someone who has never been there.", "model": "I live in a lively neighbourhood with lots of small shops and cafés. What I like most is the mix of people: you hear many different languages in the street. On top of that, there's a market twice a week, which means you can buy fresh food without going far. Mind you, it can be quite noisy at night, especially at weekends. But overall, it's a friendly place, and I'd definitely recommend it."},
+    {"id": "work-problem", "kind": "problem", "q": "Talk about a problem at work and how you solved it.", "model": "Let me think… A couple of years ago, our team had to deliver a big project with a much smaller budget than planned. At first, everybody was quite stressed. The first thing we did was to list what was really essential. As a result, we dropped a few features and focused on the core of the project. In the end, we delivered on time, and the client was happy. Looking back, the key was to be honest about priorities early on."},
+    {"id": "technology-connected", "kind": "debate", "q": "Is technology making us more or less connected?", "model": "It's hard to say, but I'd say it does both. We can talk to friends on the other side of the world for free, which is amazing. On the other hand, we often look at our phones instead of the people in front of us. In other words, technology connects us at a distance but sometimes disconnects us up close. To some extent, it's up to each of us to set limits."},
+    {"id": "explain-job", "kind": "explain", "q": "Explain your job, or your last job, to a child.", "model": "Basically, my job is to make sure that a team finishes a project on time. For instance, if we're building a new website, I check that everyone knows what to do and when. What I mean is, I'm a bit like the conductor of an orchestra: I don't play every instrument, but I help everyone play together. The best part is when the project is finished and people are happy with the result."},
+    {"id": "live-anywhere", "kind": "hypothetical", "q": "If you could live anywhere for a year, where would you go and why?", "model": "That's a good question. I think I'd choose Copenhagen. First of all, it's a city where cycling is part of everyday life, and I'd love to see how that works in practice. What's more, people there seem to have a very good work-life balance. Then again, the winters are long and dark, so I might change my mind in January! All in all, it would be a great experience."},
+    {"id": "free-apps-data", "kind": "opinion", "q": "Does it matter if apps collect your data, as long as they're free?", "model": "If you ask me, it matters a lot. The reason is that data which seems harmless on its own can reveal a great deal once it's combined. For instance, your location history shows where you live, where you work and who you see. Having said that, I don't think we should stop using apps altogether. In my view, the solution is clearer rules and better default settings, so that people can make real choices."},
+    {"id": "moving-country", "kind": "advice", "q": "What advice would you give to someone moving to a new country?", "model": "First of all, I'd say: learn at least the basics of the language, even if people speak English. It shows respect and, besides, it makes daily life much easier. Another piece of advice is to join a club or an association, such as a sports team, because that's the quickest way to make friends. Last but not least, be patient with yourself: it takes time to feel at home."},
+    {"id": "hope-reality", "kind": "debate", "q": "Some people say hope is just a way of avoiding reality. Do you agree?", "model": "I see what you mean, but I'm not so sure about that. Of course, hope can turn into wishful thinking if you ignore the facts. Even so, real hope usually comes with action: you hope things will improve, and that's why you keep trying. In other words, hope isn't the opposite of reality; it's a way of dealing with it. So I agree to some extent, but only when hope stops people from acting."}
+  ]
+}

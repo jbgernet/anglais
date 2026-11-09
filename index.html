@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Carnet d'anglais</title>
+<meta name="description" content="Apprendre et réviser le vocabulaire anglais, et gagner en aisance à l'oral.">
+<meta name="robots" content="noindex">
+<meta name="theme-color" content="#F1F4F8" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#0E131B" media="(prefers-color-scheme: dark)">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Anglais">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:wght@600;700&family=Public+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="css/app.css?v=1">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-in">
+    <a class="brand" href="#/">Carnet d'anglais</a>
+    <span class="sync-dot" id="sync-dot" role="img" hidden></span>
+    <a class="icon-btn" href="#/reglages" aria-label="Réglages" title="Réglages">
+      <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="3"/><path d="M12 2v3M12 19v3M4.2 4.2l2.1 2.1M17.7 17.7l2.1 2.1M2 12h3M19 12h3M4.2 19.8l2.1-2.1M17.7 6.3l2.1-2.1"/></svg>
+    </a>
+  </div>
+</header>
+
+<main id="view" class="wrap" tabindex="-1">
+  <p class="lead">Chargement…</p>
+</main>
+
+<nav class="bottomnav" aria-label="Navigation principale">
+  <div class="bottomnav-in">
+    <a href="#/" data-nav="accueil">
+      <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 11l8-7 8 7"/><path d="M6 10v10h12V10"/></svg>
+      <span>Aujourd'hui</span>
+    </a>
+    <a href="#/vocabulaire" data-nav="vocabulaire">
+      <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5a2 2 0 0 1 2-2h13v16H6a2 2 0 0 0-2 2z"/><path d="M4 21V5"/><path d="M9 7h6"/></svg>
+      <span>Vocabulaire</span>
+    </a>
+    <a href="#/exercices" data-nav="exercices">
+      <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="8"/><circle cx="12" cy="12" r="4"/><circle cx="12" cy="12" r="0.8"/></svg>
+      <span>Exercices</span>
+    </a>
+    <a href="#/parler" data-nav="parler">
+      <svg class="ico" viewBox="0 0 24 24" aria-hidden="true"><rect x="9" y="3" width="6" height="11" rx="3"/><path d="M5 11a7 7 0 0 0 14 0"/><path d="M12 18v3"/></svg>
+      <span>Parler</span>
+    </a>
+  </div>
+</nav>
+
+<p class="sr" id="live" aria-live="polite"></p>
+<div class="toast" id="toast" role="status" hidden></div>
+<script type="module" src="js/main.js?v=1"></script>
+</body>
+</html>

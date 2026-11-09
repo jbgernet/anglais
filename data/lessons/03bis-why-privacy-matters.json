@@ -1,0 +1,410 @@
+{
+ "num": 4,
+ "label": "3bis",
+ "title": "Why privacy matters",
+ "subtitle": "TED Talk de Glenn Greenwald",
+ "entries": [
+  {
+   "id": "the-crux-of",
+   "t": "the crux of",
+   "d": "the most important or central part of a problem or question",
+   "x": [
+    "The [[crux of]] the issue is whether people can really choose what to share."
+   ],
+   "s": "Expressions réutilisables à l'oral"
+  },
+  {
+   "id": "unbeknownst-to",
+   "t": "unbeknownst to",
+   "d": "without the knowledge of a particular person or group",
+   "x": [
+    "[[Unbeknownst to]] its users, the app was recording their location."
+   ],
+   "s": "Expressions réutilisables à l'oral"
+  },
+  {
+   "id": "take-someone-up-on-an-offer",
+   "t": "take someone up on an offer",
+   "d": "to accept an offer or invitation that someone has made to you",
+   "x": [
+    "My neighbour offered to help with the move, so I [[took him up on]] his offer."
+   ],
+   "s": "Expressions réutilisables à l'oral"
+  },
+  {
+   "id": "play-devils-advocate",
+   "t": "play devil's advocate",
+   "d": "to argue against an idea, even if you agree with it, in order to test it or start a discussion",
+   "x": [
+    "I don't actually disagree with you, but let me [[play devil's advocate]] for a moment."
+   ],
+   "s": "Expressions réutilisables à l'oral"
+  },
+  {
+   "id": "move-the-dial",
+   "t": "move the dial",
+   "d": "to make a real and noticeable difference to a situation",
+   "x": [
+    "One awareness campaign is unlikely to [[move the dial]] on online privacy."
+   ],
+   "s": "Expressions réutilisables à l'oral"
+  },
+  {
+   "id": "endgame",
+   "t": "endgame",
+   "d": "the final goal or outcome that someone is working towards",
+   "x": [
+    "What is the [[endgame]] of a company that collects so much personal data?"
+   ],
+   "s": "Expressions réutilisables à l'oral"
+  },
+  {
+   "id": "off-limits",
+   "t": "off-limits",
+   "d": "not allowed to be entered, discussed, or used",
+   "x": [
+    "My private messages should be [[off-limits]] to everyone, including my employer."
+   ],
+   "s": "Expressions réutilisables à l'oral"
+  },
+  {
+   "id": "have-nothing-to-hide",
+   "t": "have nothing to hide",
+   "d": "to have no secrets or no reason to be ashamed of your actions",
+   "x": [
+    "Many people say they have [[nothing to hide]], yet they still lock their phones."
+   ],
+   "s": "Expressions réutilisables à l'oral"
+  },
+  {
+   "id": "distract-attention-from",
+   "t": "distract attention from",
+   "d": "to make people stop focusing on something important",
+   "x": [
+    "The scandal was used to [[distract attention from]] the real problem."
+   ],
+   "s": "Expressions réutilisables à l'oral"
+  },
+  {
+   "id": "safeguard",
+   "t": "safeguard",
+   "d": "to protect something from harm, loss, or abuse",
+   "x": [
+    "Strong passwords help [[safeguard]] your accounts."
+   ],
+   "s": "Expressions réutilisables à l'oral"
+  },
+  {
+   "id": "newsworthy",
+   "t": "newsworthy",
+   "d": "interesting or important enough to be reported in the news",
+   "x": [
+    "Journalists decide which documents are [[newsworthy]]."
+   ],
+   "s": "Expressions réutilisables à l'oral"
+  },
+  {
+   "id": "say-more-about-x-than-about-y",
+   "t": "say more about X than about Y",
+   "d": "to reveal more about the person who is speaking than about the subject they are talking about",
+   "x": [
+    "His constant accusations [[say more about him than about]] his colleagues."
+   ],
+   "s": "Expressions réutilisables à l'oral"
+  },
+  {
+   "id": "palpable",
+   "t": "palpable",
+   "d": "so strong that you can almost feel it physically",
+   "x": [
+    "After the leak, the anxiety in the office was [[palpable]]."
+   ],
+   "s": "Mots à reconnaître et à lire"
+  },
+  {
+   "id": "mortified",
+   "t": "mortified",
+   "d": "extremely embarrassed or ashamed",
+   "x": [
+    "She was [[mortified]] when her private message appeared on the big screen."
+   ],
+   "s": "Mots à reconnaître et à lire"
+  },
+  {
+   "id": "crave",
+   "t": "crave",
+   "d": "to want something very much",
+   "x": [
+    "Most people [[crave]] a space where nobody is judging them."
+   ],
+   "s": "Mots à reconnaître et à lire"
+  },
+  {
+   "id": "negate",
+   "t": "negate",
+   "d": "to cancel the effect of something or show that it is false",
+   "x": [
+    "His actions [[negate]] everything he said about trust."
+   ],
+   "s": "Mots à reconnaître et à lire"
+  },
+  {
+   "id": "disclaim",
+   "t": "disclaim",
+   "d": "to say that you have no connection with something or that you do not accept it",
+   "x": [
+    "He publicly [[disclaimed]] any interest in privacy."
+   ],
+   "s": "Mots à reconnaître et à lire"
+  },
+  {
+   "id": "lurk",
+   "t": "lurk",
+   "d": "to wait or hide quietly, often in a way that makes people uneasy",
+   "x": [
+    "Someone was [[lurking]] in the group chat and reading everything."
+   ],
+   "s": "Mots à reconnaître et à lire"
+  },
+  {
+   "id": "desolate",
+   "t": "desolate",
+   "d": "empty, lonely, and without life",
+   "x": [
+    "The inbox was a [[desolate]] place, with no new messages for weeks."
+   ],
+   "s": "Mots à reconnaître et à lire"
+  },
+  {
+   "id": "unprecedented",
+   "t": "unprecedented",
+   "d": "never having happened or existed before",
+   "x": [
+    "Technology has given governments an [[unprecedented]] ability to monitor people."
+   ],
+   "s": "Mots à reconnaître et à lire"
+  },
+  {
+   "id": "indiscriminate",
+   "t": "indiscriminate",
+   "d": "done without careful choice, affecting everyone or everything without distinction",
+   "x": [
+    "Mass surveillance is [[indiscriminate]]: it targets everyone, not only suspects."
+   ],
+   "s": "Mots à reconnaître et à lire"
+  },
+  {
+   "id": "be-heralded-as",
+   "t": "be heralded as",
+   "d": "to be announced or praised as something important or good",
+   "x": [
+    "The Internet was once [[heralded as]] a tool of freedom."
+   ],
+   "s": "Mots à reconnaître et à lire"
+  },
+  {
+   "id": "plot",
+   "t": "plot",
+   "d": "to secretly plan to do something harmful or illegal",
+   "x": [
+    "Two men were arrested for [[plotting]] an attack."
+   ],
+   "s": "Mots à reconnaître et à lire"
+  },
+  {
+   "id": "unravel",
+   "t": "unravel",
+   "d": "to fall apart or collapse gradually",
+   "x": [
+    "After the scandal, her career began to [[unravel]]."
+   ],
+   "s": "Mots à reconnaître et à lire"
+  },
+  {
+   "id": "compliant",
+   "t": "compliant",
+   "d": "willing to obey rules or orders",
+   "x": [
+    "Employees who feel watched tend to be more [[compliant]]."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "conformity",
+   "t": "conformity",
+   "d": "behaviour that follows the usual rules or what most people do",
+   "x": [
+    "Constant monitoring encourages [[conformity]]."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "orthodoxy",
+   "t": "orthodoxy",
+   "d": "beliefs or practices that are generally accepted and rarely questioned",
+   "x": [
+    "Challenging social [[orthodoxy]] can be risky."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "breed",
+   "t": "breed",
+   "d": "to cause or produce something, especially something negative",
+   "x": [
+    "Fear and suspicion can [[breed]] conformity."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "entrench",
+   "t": "entrench",
+   "d": "to establish something so firmly that it becomes difficult to change",
+   "x": [
+    "Habits and beliefs become [[entrenched]] over time."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "insidious",
+   "t": "insidious",
+   "d": "harmful in a way that develops gradually and is not easy to notice",
+   "x": [
+    "The most [[insidious]] effect of surveillance is that people change without realising it."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "overt",
+   "t": "overt",
+   "d": "done openly, not hidden",
+   "x": [
+    "There was no [[overt]] threat, only a feeling of pressure."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "subtle",
+   "t": "subtle",
+   "d": "not obvious; delicate or indirect",
+   "x": [
+    "Social pressure can be very [[subtle]]."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "brute-force",
+   "t": "brute force",
+   "d": "the use of physical strength or violence rather than persuasion or cleverness",
+   "x": [
+    "Control through fear can be more effective than [[brute force]]."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "wield-power",
+   "t": "wield power",
+   "d": "to have and use power or influence",
+   "x": [
+    "People who [[wield power]] often dislike being questioned."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "dissent",
+   "t": "dissent",
+   "d": "disagreement with an official or widely held opinion",
+   "x": [
+    "A healthy society allows [[dissent]]."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "dissident",
+   "t": "dissident",
+   "d": "a person who publicly disagrees with the government or authorities",
+   "x": [
+    "Regimes often watch [[dissidents]] closely."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "odious",
+   "t": "odious",
+   "d": "extremely unpleasant or offensive",
+   "x": [
+    "Many people find mass surveillance [[odious]]."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "nefarious",
+   "t": "nefarious",
+   "d": "wicked or criminal",
+   "x": [
+    "He suspected they had a [[nefarious]] motive."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "rejuvenate",
+   "t": "rejuvenate",
+   "d": "to make something feel new, young, or strong again",
+   "x": [
+    "Stronger laws could [[rejuvenate]] the right to privacy."
+   ],
+   "s": "Mots plus abstraits"
+  },
+  {
+   "id": "render",
+   "t": "render",
+   "d": "to cause someone or something to be in a particular state",
+   "x": [
+    "The new rules [[render]] older encryption methods useless."
+   ],
+   "s": "Mots plus abstraits"
+  }
+ ],
+ "speaking": [
+  {
+   "q": "Some people say 'I have nothing to hide, so I don't care about privacy.' Do you agree?",
+   "uses": [
+    "have-nothing-to-hide",
+    "off-limits",
+    "safeguard"
+   ]
+  },
+  {
+   "q": "Why do you think people who say privacy doesn't matter still protect their passwords and lock their doors?",
+   "uses": [
+    "safeguard",
+    "say-more-about-x-than-about-y",
+    "have-nothing-to-hide"
+   ]
+  },
+  {
+   "q": "Do you think constant monitoring changes the way people behave, even when nobody is actually watching?",
+   "uses": [
+    "insidious",
+    "conformity",
+    "off-limits"
+   ]
+  },
+  {
+   "q": "Can one journalist or one whistleblower really move the dial on a big issue like mass surveillance?",
+   "uses": [
+    "move-the-dial",
+    "endgame",
+    "newsworthy"
+   ]
+  },
+  {
+   "q": "What is the crux of the debate between privacy and security?",
+   "uses": [
+    "the-crux-of",
+    "play-devils-advocate",
+    "endgame"
+   ]
+  }
+ ]
+}

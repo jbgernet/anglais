@@ -1,0 +1,469 @@
+{
+ "num": 1,
+ "label": "1",
+ "title": "Assisted Dying",
+ "subtitle": "Who should have the final say?",
+ "entries": [
+  {
+   "id": "ward-off",
+   "t": "ward off",
+   "d": "to stop something unpleasant from getting closer, becoming worse, or affecting you",
+   "x": [
+    "Modern medicine is increasingly able to [[ward off]] death in circumstances that would once have been hopeless."
+   ],
+   "s": "Medicine and time"
+  },
+  {
+   "id": "keep-something-at-bay",
+   "t": "keep something at bay",
+   "d": "to prevent something unpleasant or dangerous from happening, or to delay it",
+   "x": [
+    "When treatment merely [[keeps death at bay]] while pain and dependence continue to worsen, patients may ask whether prolonging life is helping them."
+   ],
+   "s": "Medicine and time"
+  },
+  {
+   "id": "natural-course",
+   "t": "natural course",
+   "d": "the way something normally develops or happens without outside interference",
+   "x": [
+    "One important distinction is between actively ending a life and allowing death to take its [[natural course]]."
+   ],
+   "s": "Treatment choices"
+  },
+  {
+   "id": "withhold-treatment",
+   "t": "withhold treatment",
+   "d": "to decide not to start or provide a medical treatment",
+   "x": [
+    "Doctors may [[withhold treatment]] that has not yet begun."
+   ],
+   "s": "Treatment choices"
+  },
+  {
+   "id": "withdraw-treatment",
+   "t": "withdraw treatment",
+   "d": "to stop a treatment that has already begun",
+   "x": [
+    "Doctors may also [[withdraw treatment]] that is already keeping a patient alive."
+   ],
+   "s": "Treatment choices"
+  },
+  {
+   "id": "forgo",
+   "t": "forgo",
+   "d": "to choose not to have or do something, especially something you would normally expect to have",
+   "x": [
+    "A person may choose to [[forgo]] another round of chemotherapy."
+   ],
+   "s": "Treatment choices"
+  },
+  {
+   "id": "rule-out",
+   "t": "rule out",
+   "d": "to decide that something is impossible, unsuitable, or not worth considering",
+   "x": [
+    "A patient may [[rule out]] an operation whose chances of success are extremely limited."
+   ],
+   "s": "Treatment choices"
+  },
+  {
+   "id": "palliative",
+   "t": "palliative",
+   "d": "intended to reduce pain and suffering rather than cure the illness itself",
+   "x": [
+    "[[Palliative]] medicine tries to relieve suffering rather than cure the underlying illness."
+   ],
+   "s": "Treatment choices"
+  },
+  {
+   "id": "fraught",
+   "t": "fraught",
+   "d": "full of difficulty, worry, tension, or emotional pressure",
+   "x": [
+    "Practices that look similar from a distance make the issue so [[fraught]]."
+   ],
+   "s": "Treatment choices"
+  },
+  {
+   "id": "of-sound-mind",
+   "t": "of sound mind",
+   "d": "able to think clearly, understand your situation, and make reasonable decisions",
+   "x": [
+    "Supporters argue that an adult who is [[of sound mind]] should be allowed to decide how much suffering to endure."
+   ],
+   "s": "The case for"
+  },
+  {
+   "id": "do-more-harm-than-good",
+   "t": "do more harm than good",
+   "d": "to cause more negative effects than positive ones",
+   "x": [
+    "Keeping someone alive at all costs can eventually [[do more harm than good]]."
+   ],
+   "s": "The case for"
+  },
+  {
+   "id": "reversed",
+   "t": "reversed",
+   "d": "changed back to a previous state or condition",
+   "x": [
+    "If a patient's condition cannot be [[reversed]] and their suffering cannot be controlled, should doctors refuse?"
+   ],
+   "s": "The case for"
+  },
+  {
+   "id": "second-guess",
+   "t": "second-guess",
+   "d": "to question or doubt someone's decision after it has been made, often by assuming you know better",
+   "x": [
+    "Should doctors be allowed to [[second-guess]] a patient indefinitely?"
+   ],
+   "s": "The case for"
+  },
+  {
+   "id": "indefinitely",
+   "t": "indefinitely",
+   "d": "for an unknown or unlimited period of time",
+   "x": [
+    "Should doctors be allowed to second-guess them [[indefinitely]]?"
+   ],
+   "s": "The case for"
+  },
+  {
+   "id": "opponents",
+   "t": "opponents",
+   "d": "people who disagree with or are against an idea, plan, or policy",
+   "x": [
+    "[[Opponents]] worry that an apparently free decision may be influenced by forces that are difficult to detect."
+   ],
+   "s": "The case against"
+  },
+  {
+   "id": "detect",
+   "t": "detect",
+   "d": "to discover or notice something, especially something that is difficult to see or recognise",
+   "x": [
+    "An apparently free decision may be influenced by forces that are difficult to [[detect]]."
+   ],
+   "s": "The case against"
+  },
+  {
+   "id": "hold-everyone-back",
+   "t": "hold everyone back",
+   "d": "to prevent other people from progressing, living normally, or doing what they want",
+   "x": [
+    "A seriously ill person may begin to feel that they are [[holding everyone back]]."
+   ],
+   "s": "The case against"
+  },
+  {
+   "id": "drain",
+   "t": "drain",
+   "d": "to use up someone's energy, money, strength, or resources",
+   "x": [
+    "They may think that their care is [[draining]] the family's savings."
+   ],
+   "s": "The case against"
+  },
+  {
+   "id": "weigh-heavily-on-sb",
+   "t": "weigh heavily on sb",
+   "d": "to cause someone a lot of worry, guilt, or emotional pressure",
+   "x": [
+    "Nobody has to openly tell them to choose death for that pressure to [[weigh heavily on]] them."
+   ],
+   "s": "The case against"
+  },
+  {
+   "id": "coercion",
+   "t": "coercion",
+   "d": "the use of pressure, threats, or force to make someone do something",
+   "x": [
+    "In more serious cases, [[coercion]] may be involved."
+   ],
+   "s": "The case against"
+  },
+  {
+   "id": "be-backed-into-a-corner",
+   "t": "be backed into a corner",
+   "d": "to be put in a situation where you feel you have very few choices left",
+   "x": [
+    "A patient could be [[backed into a corner]] without anyone ever making an explicit threat."
+   ],
+   "s": "The case against"
+  },
+  {
+   "id": "explicit",
+   "t": "explicit",
+   "d": "stated very clearly and directly, with no room for misunderstanding",
+   "x": [
+    "A patient could be backed into a corner without anyone ever making an [[explicit]] threat."
+   ],
+   "s": "The case against"
+  },
+  {
+   "id": "legalisation",
+   "t": "legalisation",
+   "d": "the process of making something legal by changing or creating a law",
+   "x": [
+    "Supporters of [[legalisation]] usually insist on strict safeguards."
+   ],
+   "s": "Safeguards"
+  },
+  {
+   "id": "foolproof",
+   "t": "foolproof",
+   "d": "designed so well that it is extremely unlikely to fail or be used incorrectly",
+   "x": [
+    "No system is completely [[foolproof]]."
+   ],
+   "s": "Safeguards"
+  },
+  {
+   "id": "loophole",
+   "t": "loophole",
+   "d": "a weakness or gap in a law or rule that allows someone to avoid its intended effect",
+   "x": [
+    "Even a carefully written law could contain a [[loophole]]."
+   ],
+   "s": "Safeguards"
+  },
+  {
+   "id": "stretched",
+   "t": "stretched",
+   "d": "interpreted or applied more broadly than originally intended",
+   "x": [
+    "Rules intended for exceptional cases might gradually be [[stretched]]."
+   ],
+   "s": "Safeguards"
+  },
+  {
+   "id": "err-on-the-side-of-caution",
+   "t": "err on the side of caution",
+   "d": "to choose the safer option when you are uncertain about the risks",
+   "x": [
+    "Some policymakers prefer to [[err on the side of caution]]."
+   ],
+   "s": "Safeguards"
+  },
+  {
+   "id": "eligibility",
+   "t": "eligibility",
+   "d": "the state of meeting the necessary conditions or requirements to receive or do something",
+   "x": [
+    "The question of [[eligibility]] makes the issue even harder."
+   ],
+   "s": "Where to draw the line"
+  },
+  {
+   "id": "tip-the-balance",
+   "t": "tip the balance",
+   "d": "to make one factor slightly more important than another and so influence the final decision",
+   "x": [
+    "The real difficulty lies in deciding what should [[tip the balance]] when two cases are similar but not identical."
+   ],
+   "s": "Where to draw the line"
+  },
+  {
+   "id": "next-of-kin",
+   "t": "next of kin",
+   "d": "a person's closest living relative or relatives",
+   "x": [
+    "A patient's [[next of kin]] may want doctors to continue every possible treatment."
+   ],
+   "s": "Family and doctors"
+  },
+  {
+   "id": "come-to-terms-with-sth",
+   "t": "come to terms with sth",
+   "d": "to gradually accept a difficult or unpleasant reality",
+   "x": [
+    "Relatives may struggle to [[come to terms with]] the possibility that respecting someone's wishes means allowing them to die sooner."
+   ],
+   "s": "Family and doctors"
+  },
+  {
+   "id": "be-caught-in-the-middle",
+   "t": "be caught in the middle",
+   "d": "to be involved in a disagreement between two sides and under pressure from both",
+   "x": [
+    "Doctors can then be [[caught in the middle]]."
+   ],
+   "s": "Family and doctors"
+  },
+  {
+   "id": "take-precedence-over",
+   "t": "take precedence over",
+   "d": "to be considered more important than something else",
+   "x": [
+    "Should the patient's decision [[take precedence over]] the family's objections?"
+   ],
+   "s": "Family and doctors"
+  },
+  {
+   "id": "objection",
+   "t": "objection",
+   "d": "a reason or statement showing that someone disagrees with or opposes something",
+   "x": [
+    "Should the patient's decision take precedence over the family's [[objections]]?"
+   ],
+   "s": "Family and doctors"
+  },
+  {
+   "id": "irreversible",
+   "t": "irreversible",
+   "d": "impossible to change back to the way it was before",
+   "x": [
+    "Should relatives have some say when the consequences are [[irreversible]]?"
+   ],
+   "s": "Family and doctors"
+  },
+  {
+   "id": "misgivings",
+   "t": "misgivings",
+   "d": "feelings of doubt, worry, or uncertainty about whether something is right or a good idea",
+   "x": [
+    "Doctors themselves may have serious [[misgivings]] about taking part."
+   ],
+   "s": "Doctors' duties"
+  },
+  {
+   "id": "be-at-odds-with-one-another",
+   "t": "be at odds with one another",
+   "d": "to be in conflict or disagreement with each other",
+   "x": [
+    "The duty to preserve life and the duty to relieve suffering can become [[at odds with one another]]."
+   ],
+   "s": "Doctors' duties"
+  },
+  {
+   "id": "opt-out",
+   "t": "opt out",
+   "d": "to choose not to take part in something",
+   "x": [
+    "Some doctors may want the right to [[opt out]] of participating in assisted dying."
+   ],
+   "s": "Doctors' duties"
+  },
+  {
+   "id": "competent",
+   "t": "competent",
+   "d": "able to understand information, make decisions, and communicate them clearly",
+   "x": [
+    "Refusing a [[competent]] patient's request may impose a doctor's own beliefs."
+   ],
+   "s": "Doctors' duties"
+  },
+  {
+   "id": "amount-to",
+   "t": "amount to",
+   "d": "to be effectively the same as; to have the same result or meaning as something else",
+   "x": [
+    "Refusing a competent patient's request [[amounts to]] imposing their own beliefs on that person."
+   ],
+   "s": "Doctors' duties"
+  },
+  {
+   "id": "weigh-up",
+   "t": "weigh up",
+   "d": "to carefully consider the advantages and disadvantages of something before making a decision",
+   "x": [
+    "Assisted dying forces society to [[weigh up]] values that do not fit neatly together."
+   ],
+   "s": "Society's choice"
+  },
+  {
+   "id": "vulnerable",
+   "t": "vulnerable",
+   "d": "easily harmed, influenced, or taken advantage of",
+   "x": [
+    "Protecting [[vulnerable]] people may require restrictions."
+   ],
+   "s": "Society's choice"
+  },
+  {
+   "id": "final-say",
+   "t": "final say",
+   "d": "the power or authority to make the final decision",
+   "x": [
+    "Who should have the [[final say]] when medicine can keep a person alive?"
+   ],
+   "s": "Society's choice"
+  }
+ ],
+ "speaking": [
+  {
+   "q": "Do you think a patient of sound mind should always have the final say about their own treatment? Why or why not?",
+   "uses": [
+    "of-sound-mind",
+    "final-say"
+   ]
+  },
+  {
+   "q": "At what point can continuing medical treatment do more harm than good?",
+   "uses": [
+    "do-more-harm-than-good"
+   ]
+  },
+  {
+   "q": "Do you think withholding treatment and assisted dying are morally different, or are they sometimes closer than people admit?",
+   "uses": [
+    "withhold-treatment",
+    "natural-course"
+   ]
+  },
+  {
+   "q": "What kinds of safeguards would you consider necessary to protect vulnerable patients from coercion or undue pressure?",
+   "uses": [
+    "vulnerable",
+    "coercion",
+    "foolproof"
+   ]
+  },
+  {
+   "q": "Where should society draw the line when deciding who is eligible for assisted dying?",
+   "uses": [
+    "eligibility",
+    "tip-the-balance"
+   ]
+  },
+  {
+   "q": "Do you think the fear of a slippery slope is justified, or can strict laws prevent the rules from being stretched too far?",
+   "uses": [
+    "stretched",
+    "loophole"
+   ]
+  },
+  {
+   "q": "If a patient's wishes are at odds with the wishes of their next of kin, whose position should take precedence?",
+   "uses": [
+    "be-at-odds-with-one-another",
+    "next-of-kin",
+    "take-precedence-over"
+   ]
+  },
+  {
+   "q": "Should doctors be allowed to opt out of assisted dying if they have serious misgivings about it?",
+   "uses": [
+    "opt-out",
+    "misgivings"
+   ]
+  },
+  {
+   "q": "Can a seriously ill person ever feel so much like a burden that their choice is no longer completely free? How could anyone detect that?",
+   "uses": [
+    "weigh-heavily-on-sb",
+    "hold-everyone-back",
+    "detect"
+   ]
+  },
+  {
+   "q": "If medicine can keep someone alive but cannot restore an acceptable quality of life, who should have the final say: the patient, the family, the doctor, or the law?",
+   "uses": [
+    "final-say",
+    "weigh-up"
+   ]
+  }
+ ]
+}

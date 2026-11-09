@@ -1,0 +1,1110 @@
+{
+ "num": 2,
+ "label": "2",
+ "title": "Hope",
+ "subtitle": "Hope or wishful thinking?",
+ "entries": [
+  {
+   "id": "come-to-terms-with-sth",
+   "t": "come to terms with sth",
+   "d": "to gradually accept a difficult or unpleasant reality",
+   "x": [
+    "Sometimes we have to [[come to terms with]] the fact that something is beyond our control."
+   ],
+   "s": "Family and doctors"
+  },
+  {
+   "id": "cling-to-hope",
+   "t": "cling to hope",
+   "d": "to continue hoping despite serious difficulties",
+   "x": [
+    "If someone continues to [[cling to hope]] despite overwhelming evidence that their plan is not working, hope may prevent them from making a necessary change."
+   ],
+   "s": "Hope or wishful thinking?"
+  },
+  {
+   "id": "wishful-thinking",
+   "t": "wishful thinking",
+   "d": "believing something because you want it to be true",
+   "x": [
+    "There is a difference between reasonable hope and [[wishful thinking]]."
+   ],
+   "s": "Hope or wishful thinking?"
+  },
+  {
+   "id": "keep-someone-going",
+   "t": "keep someone going",
+   "d": "to give someone the strength to continue",
+   "x": [
+    "Hope can genuinely [[keep someone going]], particularly when they are facing uncertainty or repeated failure."
+   ],
+   "s": "Hope or wishful thinking?"
+  },
+  {
+   "id": "weather-a-setback",
+   "t": "weather a setback",
+   "d": "to successfully get through a difficulty or disappointment",
+   "x": [
+    "Hope can help people [[weather a setback]] instead of immediately giving up."
+   ],
+   "s": "Hope or wishful thinking?"
+  },
+  {
+   "id": "lose-heart",
+   "t": "lose heart",
+   "d": "to become discouraged and stop believing success is possible",
+   "x": [
+    "Hope helps people avoid giving up or [[losing heart]]."
+   ],
+   "s": "Hope or wishful thinking?"
+  },
+  {
+   "id": "map-out-a-course-of-action",
+   "t": "map out a course of action",
+   "d": "to plan the steps needed to achieve something",
+   "x": [
+    "Hope becomes useful when a person can [[map out a course of action]] instead of merely imagining a positive future."
+   ],
+   "s": "What makes hope useful?"
+  },
+  {
+   "id": "follow-through",
+   "t": "follow through",
+   "d": "to continue doing something until it is completed",
+   "x": [
+    "They also need enough discipline to [[follow through]] when the initial excitement disappears."
+   ],
+   "s": "What makes hope useful?"
+  },
+  {
+   "id": "have-something-to-fall-back-on",
+   "t": "have something to fall back on",
+   "d": "to have an alternative if the first plan fails",
+   "x": [
+    "[[Having something to fall back on]] can make it easier to take reasonable risks, because failure does not feel catastrophic."
+   ],
+   "s": "What makes hope useful?"
+  },
+  {
+   "id": "within-reach",
+   "t": "within reach",
+   "d": "possible to achieve",
+   "x": [
+    "Once a goal seems [[within reach]], hope becomes much more concrete."
+   ],
+   "s": "What makes hope useful?"
+  },
+  {
+   "id": "gain-traction",
+   "t": "gain traction",
+   "d": "to begin to make noticeable progress",
+   "x": [
+    "Once a person's efforts begin to [[gain traction]], hope becomes much more concrete."
+   ],
+   "s": "What makes hope useful?"
+  },
+  {
+   "id": "bounce-back",
+   "t": "bounce back",
+   "d": "to recover after difficulty or failure",
+   "x": [
+    "The ability to [[bounce back]] depends partly on how a person interprets failure."
+   ],
+   "s": "What happens when things go wrong?"
+  },
+  {
+   "id": "take-something-in-your-stride",
+   "t": "take something in your stride",
+   "d": "to deal calmly with a problem",
+   "x": [
+    "Someone who can [[take setbacks in their stride]] is less likely to dwell on every mistake."
+   ],
+   "s": "What happens when things go wrong?"
+  },
+  {
+   "id": "dwell-on",
+   "t": "dwell on",
+   "d": "to keep thinking about something negative",
+   "x": [
+    "Someone who takes setbacks in their stride is less likely to [[dwell on]] every mistake."
+   ],
+   "s": "What happens when things go wrong?"
+  },
+  {
+   "id": "knock-someone-off-course",
+   "t": "knock someone off course",
+   "d": "to disrupt someone's progress",
+   "x": [
+    "Failure may temporarily [[knock them off course]], but it does not necessarily destroy their confidence."
+   ],
+   "s": "What happens when things go wrong?"
+  },
+  {
+   "id": "pick-yourself-up",
+   "t": "pick yourself up",
+   "d": "to recover emotionally and continue after failure",
+   "x": [
+    "The important thing is being able to [[pick yourself up]], reassess the situation, and continue with a better strategy."
+   ],
+   "s": "What happens when things go wrong?"
+  },
+  {
+   "id": "take-something-personally",
+   "t": "take something personally",
+   "d": "to interpret something as a criticism of yourself",
+   "x": [
+    "Some people [[take failure personally]], so instead of seeing one unsuccessful attempt, they see evidence that something is wrong with them."
+   ],
+   "s": "Can failure change the way we see ourselves?"
+  },
+  {
+   "id": "self-doubt-creeps-in",
+   "t": "self-doubt creeps in",
+   "d": "uncertainty about yourself gradually develops",
+   "x": [
+    "Once [[self-doubt creeps in]], they may become extremely hard on themselves."
+   ],
+   "s": "Can failure change the way we see ourselves?"
+  },
+  {
+   "id": "be-hard-on-yourself",
+   "t": "be hard on yourself",
+   "d": "to judge yourself too severely",
+   "x": [
+    "They may become extremely [[hard on themselves]] and lose sight of what they have already achieved."
+   ],
+   "s": "Can failure change the way we see ourselves?"
+  },
+  {
+   "id": "lose-sight-of",
+   "t": "lose sight of",
+   "d": "to forget something important because you are focused elsewhere",
+   "x": [
+    "They may [[lose sight of]] what they have already achieved."
+   ],
+   "s": "Can failure change the way we see ourselves?"
+  },
+  {
+   "id": "reframe",
+   "t": "reframe",
+   "d": "to change the way you understand or interpret something",
+   "x": [
+    "Learning to [[reframe]] failure as feedback rather than a judgement of one's ability can make it easier to remain hopeful."
+   ],
+   "s": "Can failure change the way we see ourselves?"
+  },
+  {
+   "id": "buoy-someone-up",
+   "t": "buoy someone up",
+   "d": "to support or encourage someone emotionally",
+   "x": [
+    "The people around us can either [[buoy us up]] or gradually wear us down."
+   ],
+   "s": "How much does our environment matter?"
+  },
+  {
+   "id": "wear-someone-down",
+   "t": "wear someone down",
+   "d": "to gradually make someone tired or discouraged",
+   "x": [
+    "The people around us can either buoy us up or gradually [[wear us down]]."
+   ],
+   "s": "How much does our environment matter?"
+  },
+  {
+   "id": "rub-off-on-someone",
+   "t": "rub off on someone",
+   "d": "to gradually influence someone's behaviour or attitude",
+   "x": [
+    "Attitudes often [[rub off on us]] without us even noticing."
+   ],
+   "s": "How much does our environment matter?"
+  },
+  {
+   "id": "surround-yourself-with",
+   "t": "surround yourself with",
+   "d": "to deliberately spend time with particular people or influences",
+   "x": [
+    "It can be helpful to [[surround yourself with]] people who are realistic but encouraging."
+   ],
+   "s": "How much does our environment matter?"
+  },
+  {
+   "id": "feed-off",
+   "t": "feed off",
+   "d": "to gain energy or confidence from something",
+   "x": [
+    "People also tend to [[feed off]] the confidence and energy of others."
+   ],
+   "s": "How much does our environment matter?"
+  },
+  {
+   "id": "take-the-plunge",
+   "t": "take the plunge",
+   "d": "to finally decide to do something difficult or risky",
+   "x": [
+    "Hope can make people more willing to [[take the plunge]] when an opportunity arises."
+   ],
+   "s": "Does hope make us braver?"
+  },
+  {
+   "id": "stick-your-neck-out",
+   "t": "stick your neck out",
+   "d": "to take a risk that may expose you to criticism or failure",
+   "x": [
+    "Someone who believes improvement is possible may be prepared to [[stick their neck out]], even against the odds."
+   ],
+   "s": "Does hope make us braver?"
+  },
+  {
+   "id": "hedge-your-bets",
+   "t": "hedge your bets",
+   "d": "to protect yourself by keeping several options open",
+   "x": [
+    "Sometimes it is sensible to [[hedge your bets]] rather than risk everything on one uncertain outcome."
+   ],
+   "s": "Does hope make us braver?"
+  },
+  {
+   "id": "against-the-odds",
+   "t": "against the odds",
+   "d": "despite a low chance of success",
+   "x": [
+    "Someone may be prepared to stick their neck out, even [[against the odds]]."
+   ],
+   "s": "Does hope make us braver?"
+  },
+  {
+   "id": "spur-someone-on",
+   "t": "spur someone on",
+   "d": "to encourage someone to make a greater effort",
+   "x": [
+    "Hope can certainly [[spur people on]] and make them more willing to take risks."
+   ],
+   "s": "Does hope make us braver?"
+  },
+  {
+   "id": "let-go-of",
+   "t": "let go of",
+   "d": "to stop holding onto an idea, hope, or emotion",
+   "x": [
+    "We may need to [[let go of]] one particular outcome."
+   ],
+   "s": "Is acceptance the opposite of hope?"
+  },
+  {
+   "id": "make-peace-with",
+   "t": "make peace with",
+   "d": "to accept something emotionally",
+   "x": [
+    "We may need to let go of one outcome and [[make peace with]] what has happened."
+   ],
+   "s": "Is acceptance the opposite of hope?"
+  },
+  {
+   "id": "be-beyond-your-control",
+   "t": "be beyond your control",
+   "d": "to be impossible for you to influence",
+   "x": [
+    "Sometimes we have to come to terms with the fact that something is [[beyond our control]]."
+   ],
+   "s": "Is acceptance the opposite of hope?"
+  },
+  {
+   "id": "move-forward",
+   "t": "move forward",
+   "d": "to continue with life after difficulty",
+   "x": [
+    "Letting go can make it easier to [[move forward]] and redirect hope towards something still possible."
+   ],
+   "s": "Is acceptance the opposite of hope?"
+  },
+  {
+   "id": "turn-a-blind-eye-to",
+   "t": "turn a blind eye to",
+   "d": "to deliberately ignore something unpleasant",
+   "x": [
+    "Hope becomes dangerous when people [[turn a blind eye to]] evidence that their situation is deteriorating."
+   ],
+   "s": "Can hope become harmful?"
+  },
+  {
+   "id": "hold-out-for",
+   "t": "hold out for",
+   "d": "to continue waiting for something better",
+   "x": [
+    "Someone may [[hold out for]] an unlikely outcome because they are in denial."
+   ],
+   "s": "Can hope become harmful?"
+  },
+  {
+   "id": "be-in-denial",
+   "t": "be in denial",
+   "d": "to refuse to accept an unpleasant reality",
+   "x": [
+    "Someone may hold out for an unlikely outcome because they are [[in denial]], rather than accepting that their original plan has failed."
+   ],
+   "s": "Can hope become harmful?"
+  },
+  {
+   "id": "cut-your-losses",
+   "t": "cut your losses",
+   "d": "to stop something before the situation becomes worse",
+   "x": [
+    "At some point, it may be wiser to [[cut your losses]]."
+   ],
+   "s": "Can hope become harmful?"
+  },
+  {
+   "id": "false-sense-of-security",
+   "t": "false sense of security",
+   "d": "confidence that is not justified by reality",
+   "x": [
+    "Hope can create a [[false sense of security]] and delay decisions that should have been made much earlier."
+   ],
+   "s": "Can hope become harmful?"
+  },
+  {
+   "id": "cultivate",
+   "t": "cultivate",
+   "d": "to deliberately develop a quality over time",
+   "x": [
+    "Hope can be [[cultivated]] rather than simply inherited as a personality trait."
+   ],
+   "s": "Can hope be learned?"
+  },
+  {
+   "id": "build-something-up",
+   "t": "build something up",
+   "d": "to gradually strengthen something",
+   "x": [
+    "People can [[build up]] more constructive ways of thinking."
+   ],
+   "s": "Can hope be learned?"
+  },
+  {
+   "id": "get-into-the-habit-of",
+   "t": "get into the habit of",
+   "d": "to make a behaviour regular through repetition",
+   "x": [
+    "People can [[get into the habit of]] looking for alternatives when one approach fails."
+   ],
+   "s": "Can hope be learned?"
+  },
+  {
+   "id": "rewire",
+   "t": "rewire",
+   "d": "to change established patterns of thinking or behaviour",
+   "x": [
+    "Repeated behaviour may help [[rewire]] some of our habitual responses to stress."
+   ],
+   "s": "Can hope be learned?"
+  },
+  {
+   "id": "set-something-in-motion",
+   "t": "set something in motion",
+   "d": "to cause a process to begin",
+   "x": [
+    "Even one small success can [[set in motion]] a cycle in which confidence leads to action."
+   ],
+   "s": "Can hope be learned?"
+  },
+  {
+   "id": "self-fulfilling-prophecy",
+   "t": "self-fulfilling prophecy",
+   "d": "a belief that helps cause itself to become true",
+   "x": [
+    "Hope can sometimes become a [[self-fulfilling prophecy]]."
+   ],
+   "s": "Can hope shape the future?"
+  },
+  {
+   "id": "set-the-wheels-in-motion",
+   "t": "set the wheels in motion",
+   "d": "to start a process that leads to further developments",
+   "x": [
+    "Believing that improvement is possible can [[set the wheels in motion]] for action."
+   ],
+   "s": "Can hope shape the future?"
+  },
+  {
+   "id": "fall-short-of",
+   "t": "fall short of",
+   "d": "to fail to achieve a particular standard or goal",
+   "x": [
+    "We may still [[fall short of]] our original ambitions."
+   ],
+   "s": "Can hope shape the future?"
+  },
+  {
+   "id": "leave-something-to-chance",
+   "t": "leave something to chance",
+   "d": "to allow something to happen without planning or control",
+   "x": [
+    "Rather than [[leaving everything to chance]], hopeful people may take actions that shape their future."
+   ],
+   "s": "Can hope shape the future?"
+  },
+  {
+   "id": "shape-the-course-of",
+   "t": "shape the course of",
+   "d": "to strongly influence how something develops",
+   "x": [
+    "Hopeful people may take actions that gradually [[shape the course of]] their future."
+   ],
+   "s": "Can hope shape the future?"
+  },
+  {
+   "id": "come-what-may",
+   "t": "come what may",
+   "d": "whatever happens",
+   "x": [
+    "Hope becomes less about guaranteeing success and more about deciding to continue, [[come what may]]."
+   ],
+   "s": "How much control do we really have?"
+  },
+  {
+   "id": "have-a-say-in",
+   "t": "have a say in",
+   "d": "to have some influence over a decision or outcome",
+   "x": [
+    "We do not always [[have a say in]] what happens."
+   ],
+   "s": "How much control do we really have?"
+  },
+  {
+   "id": "be-at-the-mercy-of",
+   "t": "be at the mercy of",
+   "d": "to have little control because something else determines what happens",
+   "x": [
+    "Sometimes we are [[at the mercy of]] circumstances we cannot change."
+   ],
+   "s": "How much control do we really have?"
+  },
+  {
+   "id": "play-the-hand-youre-dealt",
+   "t": "play the hand you're dealt",
+   "d": "to deal as well as possible with the circumstances you are given",
+   "x": [
+    "In those situations, we have to [[play the hand we're dealt]]."
+   ],
+   "s": "How much control do we really have?"
+  },
+  {
+   "id": "make-the-most-of",
+   "t": "make the most of",
+   "d": "to use a situation as effectively as possible",
+   "x": [
+    "We have to play the hand we're dealt and [[make the most of]] whatever opportunities remain."
+   ],
+   "s": "How much control do we really have?"
+  },
+  {
+   "id": "live-with-uncertainty",
+   "t": "live with uncertainty",
+   "d": "to accept that the future cannot be completely known",
+   "x": [
+    "We often have to [[live with uncertainty]] while leaving the door open to a positive outcome."
+   ],
+   "s": "Can we be hopeful without certainty?"
+  },
+  {
+   "id": "leave-the-door-open",
+   "t": "leave the door open",
+   "d": "to allow a possibility to remain",
+   "x": [
+    "We often have to live with uncertainty while [[leaving the door open]] to a positive outcome."
+   ],
+   "s": "Can we be hopeful without certainty?"
+  },
+  {
+   "id": "hang-in-the-balance",
+   "t": "hang in the balance",
+   "d": "to remain uncertain because the result could go either way",
+   "x": [
+    "When an important result [[hangs in the balance]], people may need to brace themselves for disappointment."
+   ],
+   "s": "Can we be hopeful without certainty?"
+  },
+  {
+   "id": "take-something-as-it-comes",
+   "t": "take something as it comes",
+   "d": "to deal with events when they happen rather than worrying in advance",
+   "x": [
+    "Sometimes the healthiest approach is simply to [[take things as they come]]."
+   ],
+   "s": "Can we be hopeful without certainty?"
+  },
+  {
+   "id": "brace-yourself-for",
+   "t": "brace yourself for",
+   "d": "to prepare mentally for something difficult",
+   "x": [
+    "People may need to [[brace themselves for]] disappointment while still hoping for the best."
+   ],
+   "s": "Can we be hopeful without certainty?"
+  },
+  {
+   "id": "play-the-long-game",
+   "t": "play the long game",
+   "d": "to focus on long-term success rather than immediate results",
+   "x": [
+    "People who [[play the long game]] understand that meaningful achievements may take years."
+   ],
+   "s": "Does hope require patience?"
+  },
+  {
+   "id": "stick-with-something",
+   "t": "stick with something",
+   "d": "to continue despite difficulty",
+   "x": [
+    "They are more willing to [[stick with]] a difficult project even when progress is slow."
+   ],
+   "s": "Does hope require patience?"
+  },
+  {
+   "id": "pay-off",
+   "t": "pay off",
+   "d": "to eventually produce a good result",
+   "x": [
+    "They believe their effort may eventually [[pay off]], even if there is no guarantee."
+   ],
+   "s": "Does hope require patience?"
+  },
+  {
+   "id": "lose-steam",
+   "t": "lose steam",
+   "d": "to gradually lose energy or enthusiasm",
+   "x": [
+    "People often [[lose steam]] when they do not see immediate results."
+   ],
+   "s": "Does hope require patience?"
+  },
+  {
+   "id": "see-something-through",
+   "t": "see something through",
+   "d": "to continue until something is completed",
+   "x": [
+    "Hope can help someone [[see something through]]."
+   ],
+   "s": "Does hope require patience?"
+  },
+  {
+   "id": "stack-the-odds-against-someone",
+   "t": "stack the odds against someone",
+   "d": "to create conditions that make success much less likely",
+   "x": [
+    "Determination can only get you so far when the system has [[stacked the odds against you]]."
+   ],
+   "s": "Is hard work enough?"
+  },
+  {
+   "id": "level-the-playing-field",
+   "t": "level the playing field",
+   "d": "to make conditions fairer for everyone",
+   "x": [
+    "Individual effort must sometimes be combined with attempts to [[level the playing field]]."
+   ],
+   "s": "Is hard work enough?"
+  },
+  {
+   "id": "get-a-foot-in-the-door",
+   "t": "get a foot in the door",
+   "d": "to obtain a first opportunity that may lead to greater success",
+   "x": [
+    "Someone may work extremely hard yet struggle even to [[get a foot in the door]]."
+   ],
+   "s": "Is hard work enough?"
+  },
+  {
+   "id": "break-through-a-barrier",
+   "t": "break through a barrier",
+   "d": "to overcome something that prevents progress",
+   "x": [
+    "Hope can encourage people to [[break through barriers]]."
+   ],
+   "s": "Is hard work enough?"
+  },
+  {
+   "id": "only-get-you-so-far",
+   "t": "only get you so far",
+   "d": "to help to a limited extent, but not completely",
+   "x": [
+    "Determination is important, but it can [[only get you so far]]."
+   ],
+   "s": "Is hard work enough?"
+  },
+  {
+   "id": "rally-people-around",
+   "t": "rally people around",
+   "d": "to unite people in support of a shared goal",
+   "x": [
+    "A strong leader can [[rally people around]] a shared vision."
+   ],
+   "s": "Can leaders create hope?"
+  },
+  {
+   "id": "strike-a-chord",
+   "t": "strike a chord",
+   "d": "to produce a strong emotional response",
+   "x": [
+    "A message works when it [[strikes a chord]] with people's real concerns."
+   ],
+   "s": "Can leaders create hope?"
+  },
+  {
+   "id": "follow-someones-lead",
+   "t": "follow someone's lead",
+   "d": "to behave according to someone's example or direction",
+   "x": [
+    "Others may then [[follow their lead]] because they believe improvement is achievable."
+   ],
+   "s": "Can leaders create hope?"
+  },
+  {
+   "id": "deliver-on-a-promise",
+   "t": "deliver on a promise",
+   "d": "to actually do what was promised",
+   "x": [
+    "Hope quickly disappears if leaders repeatedly fail to [[deliver on their promises]]."
+   ],
+   "s": "Can leaders create hope?"
+  },
+  {
+   "id": "ring-hollow",
+   "t": "ring hollow",
+   "d": "to sound insincere or meaningless",
+   "x": [
+    "Optimistic speeches begin to [[ring hollow]] if they are not supported by action."
+   ],
+   "s": "Can leaders create hope?"
+  },
+  {
+   "id": "give-someone-the-benefit-of-the-doubt",
+   "t": "give someone the benefit of the doubt",
+   "d": "to choose to believe someone despite uncertainty",
+   "x": [
+    "Hope can encourage us to [[give someone the benefit of the doubt]]."
+   ],
+   "s": "How does hope affect relationships?"
+  },
+  {
+   "id": "hold-on-to",
+   "t": "hold on to",
+   "d": "to continue keeping a feeling or belief",
+   "x": [
+    "Hope can encourage us to [[hold on to]] a relationship during a difficult period."
+   ],
+   "s": "How does hope affect relationships?"
+  },
+  {
+   "id": "take-someone-for-granted",
+   "t": "take someone for granted",
+   "d": "to fail to appreciate someone properly",
+   "x": [
+    "Hope becomes unhealthy when one person repeatedly [[takes the other for granted]]."
+   ],
+   "s": "How does hope affect relationships?"
+  },
+  {
+   "id": "meet-someone-halfway",
+   "t": "meet someone halfway",
+   "d": "to compromise with another person",
+   "x": [
+    "Hope may motivate both people to [[meet each other halfway]] instead of giving up."
+   ],
+   "s": "How does hope affect relationships?"
+  },
+  {
+   "id": "know-when-to-walk-away",
+   "t": "know when to walk away",
+   "d": "to recognise when continuing is no longer worthwhile",
+   "x": [
+    "Sometimes emotional maturity means [[knowing when to walk away]]."
+   ],
+   "s": "How does hope affect relationships?"
+  },
+  {
+   "id": "rise-to-the-occasion",
+   "t": "rise to the occasion",
+   "d": "to perform especially well when faced with a challenge",
+   "x": [
+    "Someone who psychs themselves up may be more likely to [[rise to the occasion]]."
+   ],
+   "s": "Can expectation affect performance?"
+  },
+  {
+   "id": "psych-yourself-up",
+   "t": "psych yourself up",
+   "d": "to mentally prepare yourself to perform confidently",
+   "x": [
+    "Someone who [[psychs themselves up]] before an important event may perform better."
+   ],
+   "s": "Can expectation affect performance?"
+  },
+  {
+   "id": "get-the-better-of-someone",
+   "t": "get the better of someone",
+   "d": "to defeat or negatively overpower someone",
+   "x": [
+    "Fear can [[get the better of]] people."
+   ],
+   "s": "Can expectation affect performance?"
+  },
+  {
+   "id": "hold-yourself-back",
+   "t": "hold yourself back",
+   "d": "to prevent yourself from performing as well as you could",
+   "x": [
+    "Fear can cause people to [[hold themselves back]], even when they are highly capable."
+   ],
+   "s": "Can expectation affect performance?"
+  },
+  {
+   "id": "live-up-to-expectations",
+   "t": "live up to expectations",
+   "d": "to perform as well as people expect",
+   "x": [
+    "Expectations can influence whether we [[live up to]] our actual potential."
+   ],
+   "s": "Can expectation affect performance?"
+  },
+  {
+   "id": "pull-together",
+   "t": "pull together",
+   "d": "to cooperate during a difficult situation",
+   "x": [
+    "During difficult periods, communities sometimes [[pull together]]."
+   ],
+   "s": "Is hope individual or collective?"
+  },
+  {
+   "id": "a-sense-of-common-purpose",
+   "t": "a sense of common purpose",
+   "d": "a shared belief in the same goal",
+   "x": [
+    "Communities pull together because they develop [[a sense of common purpose]]."
+   ],
+   "s": "Is hope individual or collective?"
+  },
+  {
+   "id": "turn-things-around",
+   "t": "turn things around",
+   "d": "to change a bad situation into a better one",
+   "x": [
+    "If enough people believe they can [[turn things around]], that belief can create support for change."
+   ],
+   "s": "Is hope individual or collective?"
+  },
+  {
+   "id": "lose-faith-in",
+   "t": "lose faith in",
+   "d": "to stop believing that something or someone can succeed",
+   "x": [
+    "When citizens see promises broken, they may [[lose faith in]] institutions."
+   ],
+   "s": "Is hope individual or collective?"
+  },
+  {
+   "id": "a-groundswell-of-support",
+   "t": "a groundswell of support",
+   "d": "a gradually growing level of public support",
+   "x": [
+    "That belief can create [[a groundswell of support]] for change."
+   ],
+   "s": "Is hope individual or collective?"
+  },
+  {
+   "id": "have-your-hopes-dashed",
+   "t": "have your hopes dashed",
+   "d": "to suddenly lose hope because something fails",
+   "x": [
+    "[[Having your hopes dashed]] can be extremely painful."
+   ],
+   "s": "What happens when hope is disappointed?"
+  },
+  {
+   "id": "pick-up-the-pieces",
+   "t": "pick up the pieces",
+   "d": "to begin rebuilding your life after something goes wrong",
+   "x": [
+    "Initially, people may simply need time to [[pick up the pieces]]."
+   ],
+   "s": "What happens when hope is disappointed?"
+  },
+  {
+   "id": "take-stock",
+   "t": "take stock",
+   "d": "to carefully assess a situation",
+   "x": [
+    "After that, it can be useful to [[take stock]] of what went wrong."
+   ],
+   "s": "What happens when hope is disappointed?"
+  },
+  {
+   "id": "chalk-something-up-to-experience",
+   "t": "chalk something up to experience",
+   "d": "to accept a failure as something you learned from",
+   "x": [
+    "It can be useful to [[chalk the experience up to]] something they have learned from."
+   ],
+   "s": "What happens when hope is disappointed?"
+  },
+  {
+   "id": "turn-the-page",
+   "t": "turn the page",
+   "d": "to leave a difficult period behind and begin again",
+   "x": [
+    "Hope may require the courage to [[turn the page]]."
+   ],
+   "s": "What happens when hope is disappointed?"
+  },
+  {
+   "id": "keep-your-feet-on-the-ground",
+   "t": "keep your feet on the ground",
+   "d": "to remain realistic",
+   "x": [
+    "Mature hope means being able to hold out hope while still [[keeping your feet on the ground]]."
+   ],
+   "s": "What is mature hope?"
+  },
+  {
+   "id": "hold-out-hope",
+   "t": "hold out hope",
+   "d": "to continue believing that something positive is possible",
+   "x": [
+    "Mature hope means being able to [[hold out hope]]."
+   ],
+   "s": "What is mature hope?"
+  },
+  {
+   "id": "face-something-head-on",
+   "t": "face something head-on",
+   "d": "to deal with a problem directly",
+   "x": [
+    "It requires us to [[face difficulties head-on]] rather than pretend they do not exist."
+   ],
+   "s": "What is mature hope?"
+  },
+  {
+   "id": "make-room-for",
+   "t": "make room for",
+   "d": "to accept or allow something alongside something else",
+   "x": [
+    "We also need to [[make room for]] disappointment, uncertainty, and failure."
+   ],
+   "s": "What is mature hope?"
+  },
+  {
+   "id": "walk-a-fine-line-between",
+   "t": "walk a fine line between",
+   "d": "to carefully balance two opposing things",
+   "x": [
+    "Healthy hope means learning to [[walk a fine line between]] believing that things can improve and accepting that not everything is within our control."
+   ],
+   "s": "What is mature hope?"
+  }
+ ],
+ "speaking": [
+  {
+   "q": "Do you think hope can genuinely change the way people deal with difficult situations, or is it sometimes just a form of unrealistic thinking?",
+   "uses": [
+    "cling-to-hope",
+    "wishful-thinking",
+    "keep-someone-going",
+    "weather-a-setback",
+    "lose-heart"
+   ]
+  },
+  {
+   "q": "If hope is more than simply wanting something to happen, what do you think turns hope into something practical and useful?",
+   "uses": [
+    "map-out-a-course-of-action",
+    "follow-through",
+    "have-something-to-fall-back-on",
+    "within-reach",
+    "gain-traction"
+   ]
+  },
+  {
+   "q": "Even with a good plan, people inevitably experience failure. What determines whether someone recovers from a setback or gives up?",
+   "uses": [
+    "bounce-back",
+    "take-something-in-your-stride",
+    "dwell-on",
+    "knock-someone-off-course",
+    "pick-yourself-up"
+   ]
+  },
+  {
+   "q": "Why do some people treat failure as useful information, while others see it as proof that they are not capable enough?",
+   "uses": [
+    "take-something-personally",
+    "self-doubt-creeps-in",
+    "be-hard-on-yourself",
+    "lose-sight-of",
+    "reframe"
+   ]
+  },
+  {
+   "q": "If our own thinking affects hope, how much influence do the people around us have on whether we remain hopeful?",
+   "uses": [
+    "buoy-someone-up",
+    "wear-someone-down",
+    "rub-off-on-someone",
+    "surround-yourself-with",
+    "feed-off"
+   ]
+  },
+  {
+   "q": "Can being hopeful make people more willing to take risks and pursue ambitious goals?",
+   "uses": [
+    "take-the-plunge",
+    "stick-your-neck-out",
+    "hedge-your-bets",
+    "against-the-odds",
+    "spur-someone-on"
+   ]
+  },
+  {
+   "q": "If something genuinely cannot be changed, should we continue hoping, or is there a point at which we need to accept reality?",
+   "uses": [
+    "come-to-terms-with-sth",
+    "let-go-of",
+    "make-peace-with",
+    "be-beyond-your-control",
+    "move-forward"
+   ]
+  },
+  {
+   "q": "At what point can hope stop being helpful and begin to prevent people from making realistic decisions?",
+   "uses": [
+    "turn-a-blind-eye-to",
+    "hold-out-for",
+    "be-in-denial",
+    "cut-your-losses",
+    "false-sense-of-security"
+   ]
+  },
+  {
+   "q": "Do you think hope is mainly part of someone's personality, or can people deliberately become more hopeful?",
+   "uses": [
+    "cultivate",
+    "build-something-up",
+    "get-into-the-habit-of",
+    "rewire",
+    "set-something-in-motion"
+   ]
+  },
+  {
+   "q": "Taking everything we have discussed into account, to what extent do you believe hope can actually influence the future we create for ourselves?",
+   "uses": [
+    "self-fulfilling-prophecy",
+    "set-the-wheels-in-motion",
+    "fall-short-of",
+    "leave-something-to-chance",
+    "shape-the-course-of"
+   ]
+  },
+  {
+   "q": "If hope encourages us to take action, how should we deal with situations in which the outcome is largely beyond our control?",
+   "uses": [
+    "come-what-may",
+    "have-a-say-in",
+    "be-at-the-mercy-of",
+    "play-the-hand-youre-dealt",
+    "make-the-most-of"
+   ]
+  },
+  {
+   "q": "If we cannot know what the future will bring, is uncertainty an enemy of hope or actually a necessary part of it?",
+   "uses": [
+    "live-with-uncertainty",
+    "leave-the-door-open",
+    "hang-in-the-balance",
+    "take-something-as-it-comes",
+    "brace-yourself-for"
+   ]
+  },
+  {
+   "q": "Why are some people able to work towards a distant goal for years, while others give up when results do not appear quickly?",
+   "uses": [
+    "play-the-long-game",
+    "stick-with-something",
+    "pay-off",
+    "lose-steam",
+    "see-something-through"
+   ]
+  },
+  {
+   "q": "We often tell people that hope and effort can change their lives. But are there circumstances in which determination simply is not enough?",
+   "uses": [
+    "stack-the-odds-against-someone",
+    "level-the-playing-field",
+    "get-a-foot-in-the-door",
+    "break-through-a-barrier",
+    "only-get-you-so-far"
+   ]
+  },
+  {
+   "q": "If circumstances influence hope, what responsibility do leaders have for making other people feel that improvement is possible?",
+   "uses": [
+    "rally-people-around",
+    "strike-a-chord",
+    "follow-someones-lead",
+    "deliver-on-a-promise",
+    "ring-hollow"
+   ]
+  },
+  {
+   "q": "Can hope help repair damaged relationships, or can hoping that someone will change sometimes keep us in unhealthy situations?",
+   "uses": [
+    "give-someone-the-benefit-of-the-doubt",
+    "hold-on-to",
+    "take-someone-for-granted",
+    "meet-someone-halfway",
+    "know-when-to-walk-away"
+   ]
+  },
+  {
+   "q": "Do you think believing that you will succeed can actually improve your performance, even when your ability has not changed?",
+   "uses": [
+    "rise-to-the-occasion",
+    "psych-yourself-up",
+    "get-the-better-of-someone",
+    "hold-yourself-back",
+    "live-up-to-expectations"
+   ]
+  },
+  {
+   "q": "So far we have mainly discussed personal hope. Can entire communities or societies become more hopeful or more hopeless?",
+   "uses": [
+    "pull-together",
+    "a-sense-of-common-purpose",
+    "turn-things-around",
+    "lose-faith-in",
+    "a-groundswell-of-support"
+   ]
+  },
+  {
+   "q": "If people invest a great deal of hope in a particular future and it never happens, how can they recover without becoming cynical?",
+   "uses": [
+    "have-your-hopes-dashed",
+    "pick-up-the-pieces",
+    "take-stock",
+    "chalk-something-up-to-experience",
+    "turn-the-page"
+   ]
+  },
+  {
+   "q": "After considering optimism, failure, uncertainty, social barriers and acceptance, how would you now define a healthy and mature form of hope?",
+   "uses": [
+    "keep-your-feet-on-the-ground",
+    "hold-out-hope",
+    "face-something-head-on",
+    "make-room-for",
+    "walk-a-fine-line-between"
+   ]
+  }
+ ]
+}
