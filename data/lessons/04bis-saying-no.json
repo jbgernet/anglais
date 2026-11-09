@@ -1,0 +1,202 @@
+{
+ "num": 5,
+ "label": "4bis",
+ "title": "Saying No",
+ "subtitle": "Hidden Brain, How To Say No",
+ "entries": [
+  {
+   "id": "have-your-plate-full",
+   "t": "have your plate full",
+   "d": "to be so busy, with so many tasks or responsibilities, that you cannot take on anything else",
+   "x": [
+    "I'd love to join the committee, but I already [[have my plate full]] this semester."
+   ],
+   "s": "Expressions et verbes"
+  },
+  {
+   "id": "kick-yourself",
+   "t": "kick yourself",
+   "d": "to be very annoyed with yourself because you made a mistake or a bad decision",
+   "x": [
+    "She [[kicked herself]] for saying yes when she really wanted to say no."
+   ],
+   "s": "Expressions et verbes"
+  },
+  {
+   "id": "out-of-the-goodness-of-your-heart",
+   "t": "out of the goodness of your heart",
+   "d": "because you are kind and generous, without expecting anything in return",
+   "x": [
+    "I ran across town to pick up her groceries [[out of the goodness of my heart]]."
+   ],
+   "s": "Expressions et verbes"
+  },
+  {
+   "id": "kick-back",
+   "t": "kick back",
+   "d": "to relax, especially by sitting or lying comfortably",
+   "x": [
+    "While I was carrying the shopping, her husband was [[kicking back]] in the garden with a beer."
+   ],
+   "s": "Expressions et verbes"
+  },
+  {
+   "id": "put-someone-on-the-spot",
+   "t": "put someone on the spot",
+   "d": "to force someone to answer or decide immediately, in a way that makes them uncomfortable",
+   "x": [
+    "Being asked in front of the whole team really [[put me on the spot]]."
+   ],
+   "s": "Expressions et verbes"
+  },
+  {
+   "id": "your-heart-sinks",
+   "t": "your heart sinks",
+   "d": "you suddenly feel disappointed or worried because of bad news or an unwelcome request",
+   "x": [
+    "When the stranger asked for my aisle seat, my [[heart sank]]."
+   ],
+   "s": "Expressions et verbes"
+  },
+  {
+   "id": "go-out-of-your-way",
+   "t": "go out of your way",
+   "d": "to make a special effort to do something, even when it is inconvenient",
+   "x": [
+    "People will [[go out of their way]] to say yes, even to strangers, because saying no feels so hard."
+   ],
+   "s": "Expressions et verbes"
+  },
+  {
+   "id": "out-of-line",
+   "t": "out of line",
+   "d": "not acceptable or appropriate",
+   "x": [
+    "Some requests are completely [[out of line]], yet people still agree to them."
+   ],
+   "s": "Expressions et verbes"
+  },
+  {
+   "id": "turn-down",
+   "t": "turn down",
+   "d": "to refuse an offer, invitation, or request",
+   "x": [
+    "It is much easier to [[turn down]] a request when nobody is watching you."
+   ],
+   "s": "Expressions et verbes"
+  },
+  {
+   "id": "strive-to",
+   "t": "strive to",
+   "d": "to make great efforts to achieve something",
+   "x": [
+    "We [[strive to]] create a good impression in other people's minds."
+   ],
+   "s": "Expressions et verbes"
+  },
+  {
+   "id": "boil-down-to",
+   "t": "boil down to",
+   "d": "to be essentially the result of one main factor, once everything has been considered",
+   "x": [
+    "Why women say yes more often [[boils down to]] social expectations of helpfulness."
+   ],
+   "s": "Expressions et verbes"
+  },
+  {
+   "id": "willy-nilly",
+   "t": "willy-nilly",
+   "d": "without careful thought or planning; randomly, in an uncontrolled way",
+   "x": [
+    "I don't say no [[willy-nilly]]: I'm very thoughtful about what I commit to."
+   ],
+   "s": "Expressions et verbes"
+  },
+  {
+   "id": "shell-shocked",
+   "t": "shell-shocked",
+   "d": "so shocked or stunned by something unexpected that you cannot react normally",
+   "x": [
+    "When my boss told me to wait for the fax, I was [[shell-shocked]]."
+   ],
+   "s": "Mots à connaître"
+  },
+  {
+   "id": "flabbergasted",
+   "t": "flabbergasted",
+   "d": "extremely surprised, so much that you hardly know what to say",
+   "x": [
+    "I was [[flabbergasted]] when my nine-year-old explained the acquaintance trap to me."
+   ],
+   "s": "Mots à connaître"
+  },
+  {
+   "id": "resentful",
+   "t": "resentful",
+   "d": "feeling bitter and angry because you think you have been treated unfairly",
+   "x": [
+    "Saying yes when you want to say no often leaves you [[resentful]] towards the other person."
+   ],
+   "s": "Mots à connaître"
+  },
+  {
+   "id": "placate",
+   "t": "placate",
+   "d": "to make someone less angry or upset by giving them something or agreeing with them",
+   "x": [
+    "He said yes just to [[placate]] his friend, even though the request was unreasonable."
+   ],
+   "s": "Mots à connaître"
+  },
+  {
+   "id": "shatter",
+   "t": "shatter",
+   "d": "to destroy something completely, especially hopes, plans, or confidence; literally, to break into small pieces",
+   "x": [
+    "That one instruction [[shattered]] my plans for the evening."
+   ],
+   "s": "Mots à connaître"
+  }
+ ],
+ "speaking": [
+  {
+   "q": "Tell me about a time you said yes when you wanted to say no. How did you feel afterwards?",
+   "uses": [
+    "kick-yourself",
+    "resentful"
+   ]
+  },
+  {
+   "q": "Why do you think it is so hard to turn down a request from someone you barely know?",
+   "uses": [
+    "turn-down",
+    "go-out-of-your-way",
+    "boil-down-to"
+   ]
+  },
+  {
+   "q": "Have you ever been put on the spot by a boss or a colleague? What did you say?",
+   "uses": [
+    "put-someone-on-the-spot",
+    "your-heart-sinks"
+   ]
+  },
+  {
+   "q": "Should we always help others out of the goodness of our hearts, or is it healthy to say no sometimes? Where would you draw the line?",
+   "uses": [
+    "out-of-the-goodness-of-your-heart",
+    "out-of-line",
+    "willy-nilly"
+   ]
+  },
+  {
+   "q": "Describe a moment when something unexpected shattered your plans. How did you react?",
+   "uses": [
+    "shatter",
+    "shell-shocked",
+    "flabbergasted",
+    "have-your-plate-full"
+   ]
+  }
+ ]
+}
